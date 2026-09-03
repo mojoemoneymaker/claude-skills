@@ -128,6 +128,22 @@ Scopes: mentorship calls and workshops with DJs who asked for help
 Conflict: this is an identity close. Refused entirely for couples (a couple choosing a DJ is not stepping into a new identity, and the sequence reads as pressure). In the mentorship room, the pressure lines are cut: "Do you really believe that? Or are you just trying to be nice?" (32:14) is refused; "why though?" stays
 Status: adapted and restricted
 
+Lesson: Bridge questions (redirect the focus, out loud)
+Rule: Ask the question the listener was about to think, before they think it, and point it at the next thing.
+Why: The bridge fills the gap the listener would fall into and moves focus to relevance or to the next point without a hard cut.
+Example: "So how do we actually do it?" (10:49) "Now what do I mean by stagecraft?" (11:02) "So what does that even mean?" (16:44) "Well, let me ask you this." (19:16) "So the question becomes, how do we actually install a feeling of certainty and confidence into what they do?" (17:22) Joe's own description of the device, "but what does this have to do with what you're doing?", is his paraphrase; the transcript has no verbatim line in that form.
+Scopes: all; in writing, the question-phrased subhead
+Conflict: none
+Status: adopted (added 2026-09-03 after Joe named it; phase 1 had folded it into question control)
+
+Lesson: Tie-downs (the small yes on the way)
+Rule: A short agreement check after a point lands.
+Why: A listener who said yes to the last point is carried into the next one.
+Example: "Does it make sense? Awesome." (04:51) "Are you with me? This makes sense." (10:49) "See how there's a flow to that? Yes? Yes." (11:14) "Cool?" (00:56) "Make sense? Yes? Awesome." (24:45)
+Scopes: teaching, talks, sales calls, mentorship; at most one in a reel; none in writing
+Conflict: must ask about understanding, never about buying (the flashcards' test-closing version is refused)
+Status: adopted for the spoken lanes (added 2026-09-03)
+
 ---
 
 ## Refused from this source, with the reason

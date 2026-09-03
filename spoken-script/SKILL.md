@@ -1,17 +1,18 @@
 ---
 name: spoken-script
-description: Writes and polishes anything a person will say out loud, in Joe Rivera's voice, using the spoken-word lessons Joe has collected (Eli Wilde's stagecraft, story selling and trust building, plus Joe's own MC and mentorship craft). Use for Reel and Short scripts read to camera, teleprompter reads, wedding MC announcements and mic work, discovery-call and sales talk tracks, mentorship-call or workshop teaching, talks, narration, and whenever Joe says "make this sound natural when I say it", "read aloud", "talk track", "what do I say", "on the mic", "stagecraft" or "Eli Wilde". Also use to grow the skill ("add this transcript to the speaking skill", "learn from this speaker"). Runs LAST, on top of the content skill that owns the format (wdjm-script-writer, process-transcript, produce-long-form). Do NOT use for silently read text (joe-copy-standards), for turning a teacher's material into a WDJM lesson (process-playbook), or for distilling Joe's own call and course transcripts (process-transcript).
+description: The spoken-word layer, how a line sounds when Joe Rivera says it. Use for Reel and Short scripts read to camera, teleprompter reads, wedding MC announcements and mic work, discovery-call and sales talk tracks, mentorship-call or workshop teaching, talks, narration, and whenever Joe says "make this sound natural when I say it", "read aloud", "talk track", "what do I say", "on the mic", "delivery", "stagecraft", "vocal", "pause". Carries the read-aloud pass, breath and sentence rules, the Sage, Warrior and Lover vocal modes, eyes, gestures, presence, and the rhythm of statement, self-question, answer. Runs LAST, after belief-patterns (structure) and the content skill that owns the format (wdjm-script-writer, process-transcript, produce-long-form). Do NOT use for what is said or how a belief is changed (belief-patterns), for silently read text (joe-copy-standards, copy-law), or for distilling transcripts (belief-patterns Mode B, process-transcript).
 ---
 
 # spoken-script
 
-The spoken-word layer. Other skills decide WHAT gets said: the belief, the proof, the structure,
-the CTA. This skill decides how it lands in a listener's ear when Joe says it, and it grows every
-time Joe feeds it a new teacher.
+The spoken-word layer. `belief-patterns` decides the structure (what the listener must believe
+first, how the belief turns, how they are carried point to point). The content skill for the
+lane decides the format. This skill decides how it lands in a listener's ear when Joe says it:
+sentence length, breath, the vocal mode of each line, where the pause sits, what the hands and
+eyes do. It runs last.
 
-Two modes. Mode A writes or polishes something Joe will say. Mode B ingests a source (a
-transcript, a set of notes, a PDF) into the skill's lesson set and into the Notion Knowledge
-Base, so the knowledge is reachable from any thread and the skill gets sharper.
+New teachers are ingested through `belief-patterns` Mode B, which routes delivery-only lessons
+here (`references/delivery.md` and `references/lessons.md`).
 
 ## Before writing a word
 
@@ -30,18 +31,19 @@ Point at them, do not restate them.
 
 | Need | Read |
 |---|---|
-| The rules this skill applies, grouped by the listener's job, with source and adoption status | `references/lessons.md` |
+| The persuasion structure (reframes, two sales, question control, bridges, tie-downs, attention generators, through line, story arc) | `belief-patterns/references/patterns.md`, run first |
+| The delivery lessons this skill owns (speak to one person, presence, rhythm, tone) | `references/lessons.md` |
 | How a line is delivered: state, breath, vocal modes, gestures, eyes, presence | `references/delivery.md` |
 | The mechanical checklist for anything read by a person | `references/read-aloud-pass.md` |
 | What changes per kind of spoken moment (reel, MC, sales call, teaching) | `references/scopes.md` |
-| How to ingest a new source, and which sources are already done | `references/sources/README.md` |
-| The distilled sources themselves | `references/sources/*.md` |
+| How to ingest a new source, and which sources are already done | `belief-patterns/references/sources/README.md` |
 | Deterministic checker, run on every deliverable | `scripts/read_aloud_check.py` |
 
-Most Mode A requests need `lessons.md`, `scopes.md` and the checker. Load `delivery.md` when the
-request is about how to say it, or when the moment is live (MC, stage, sales call).
+Most requests need `belief-patterns/references/patterns.md` (already applied if the content
+skill ran), `scopes.md`, `lessons.md` and the checker. Load `delivery.md` when the request is
+about how to say it, or when the moment is live (MC, stage, sales call).
 
-## Mode A: write or polish for the spoken word
+## Write or polish for the spoken word
 
 ### 1. Get the four inputs, default what you can, ask only for what cannot default
 
@@ -54,22 +56,21 @@ request is about how to say it, or when the moment is live (MC, stage, sales cal
 4. **The one thing they must believe or do afterwards.** If the request carries two, ask
    which one, because a spoken piece that installs two beliefs installs neither.
 
-If a content skill applies (a Reel, a WDJM script, a To The Testimony narration), run it first.
-Its output is the draft this mode polishes. Do not re-decide its belief, its proof or its CTA.
+If a content skill applies (a Reel, a WDJM script, a To The Testimony narration), run
+`belief-patterns` and then that skill first. Their output is the draft this skill polishes. Do
+not re-decide the belief, the order, the proof or the CTA.
 
-### 2. Name the listener's job
+### 2. Check the structure is already there
 
-Every spoken piece asks the listener to do four things in order, and the lessons are grouped
-by them in `lessons.md`: pay attention, trust the speaker, take on one belief, and know what
-to do next. Decide where in the piece each job happens. A hook that has not earned attention
-cannot install anything, and a close that arrives before trust is a pitch.
+The piece should arrive with its belief, its two-sales order and its bridges in place from
+`belief-patterns`. If it did not (a raw brief, a draft from outside), run that skill's Mode A
+first. This skill does not restructure; it makes the structure sayable.
 
-### 3. Apply the lessons for this scope
+### 3. Apply the delivery lessons for this scope
 
-Work through the `lessons.md` groups that fit the scope, applying only lessons whose adoption
-status is `adopted` or `adapted`. Lessons marked `not adopted` are recorded so the skill knows
-what it is refusing and why; never apply them. Every lesson carries the reason it works, so
-apply the reason, not the surface pattern. A reframe template pasted verbatim sounds pasted.
+`lessons.md` and `delivery.md`, filtered by `scopes.md`. Speak to one person. Mark where the
+vocal mode changes (Sage for setup, Warrior for the turn and the rehook, Lover for the close and
+the personal line). Put the self-questions and bridges in Joe's rhythm, not the teacher's.
 
 ### 4. Run the read-aloud pass
 
@@ -109,40 +110,12 @@ skill's own output format is required (the wdjm-script-writer Title / Target Bel
 Meat / CTA block, for instance), deliver that first, then this block as the teleprompter-ready
 version.
 
-## Mode B: ingest a source
-
-Triggered by "add this to the speaking skill", "learn from this transcript", "train you on
-this", or a new file dropped in Dropbox `/LEARNING/<teacher>/`. Follow
-`references/sources/README.md` step by step; the short version:
-
-1. **Do it once.** Check the registry table in `sources/README.md` and query the Notion
-   Knowledge Base for the same Source Link. Already done means report it and stop.
-2. **Read it all.** Under roughly fifty thousand characters, read it directly. Larger, delegate
-   sections to subagents and confirm full coverage, the way `process-transcript` does.
-3. **Extract lessons in the fixed shape** (rule, why it works as the teacher explains it, a
-   verbatim example when the source has one, which scopes it fits, whether it conflicts with
-   Joe's rules). Aim for the twelve to twenty that would change how a script is written, not
-   an exhaustive list.
-4. **File the knowledge in Notion** as Knowledge Base entries, Source = `Eli Wilde` (or the
-   teacher's name, added as a Source option when new), Status = `New`, Source Link back to
-   the file or page. This is what makes the lessons reachable from any other thread or AI.
-5. **Write `sources/<teacher>-<slug>.md`**, then merge into `lessons.md` and `delivery.md`:
-   dedupe against what is there, attribute every lesson, set adoption status. Anything that
-   collides with `joe-copy-standards` (manufactured urgency, naming a doubt to deny it, an
-   outcome Joe cannot promise, pressure on a couple to decide) is recorded as `not adopted`
-   with the reason. Joe's laws are not up for a vote by a new teacher.
-6. **Leave SKILL.md alone** unless a genuinely new category of lesson appeared. The skill's
-   shape stays stable; the lesson set grows.
-7. **Report as a draft**: entries created, lessons adopted, lessons adapted, lessons refused
-   and why, and anything that needs Joe's judgment.
-
 ## Composition rule
 
-Content skill first, this skill last. On any conflict between a lesson here and a rule in
-`joe-copy-standards` or a project copy law, the law wins and the lesson is marked. This skill
-never introduces a fact, a number, a name or a story that the content skill or Joe did not
-supply. Attribution is honest: a teacher's words are the teacher's, Joe's notes are Joe's
-paraphrase, and nothing is quoted as verbatim unless a transcript carries it.
+`belief-patterns` first, the content skill for the format, this skill last. On any conflict
+between a lesson here and a rule in `joe-copy-standards` or a project copy law, the law wins
+and the lesson is marked. This skill never introduces a fact, a number, a name or a story that
+the content skill or Joe did not supply.
 
 ## Quality pass before delivering
 
@@ -165,4 +138,4 @@ paraphrase, and nothing is quoted as verbatim unless a transcript carries it.
 - A written-English sentence that would never be said across a table.
 - A story, stat or name the sources did not supply.
 - Speaking to the room instead of to one person in it.
-- Any lesson with adoption status `not adopted`, however clever it sounds in the source.
+- Any technique in `belief-patterns/references/refused.md`, however clever it sounds in the source.

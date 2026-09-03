@@ -17,7 +17,9 @@ two copies ever disagree, the repo wins and the Dropbox copy gets re-mirrored.
 
 | Skill | What it is | Installed to |
 |---|---|---|
-| `spoken-script` | The spoken-word layer: writes and polishes anything Joe says out loud, using the lessons ingested from Eli Wilde and Joe's own craft. Runs last, on top of whichever content skill owns the format. | Dropbox canonical, then `~/.claude/skills/` by junction |
+| `belief-patterns` | The persuasion structure library: reframe, two sales, question control, bridge questions, tie-downs, attention generators, through line, story arc. Distilled from Eli Wilde and Joe's own notes with verbatim examples and adoption status. Runs first on anything meant to change a mind, written or spoken. Also holds the source ingest procedure. | Dropbox canonical, then `~/.claude/skills/` by junction |
+| `spoken-script` | The spoken-word layer: how a line sounds when Joe says it. Read-aloud pass, vocal modes, rhythm, MC craft, the checker. Runs last on anything read aloud. | Dropbox canonical, then `~/.claude/skills/` by junction |
+| `wdjm-script-writer` | Joe's belief-shifting Reels writer, adopted from claude.ai on 2026-09-03 and wired to `belief-patterns` and `spoken-script`. The claude.ai synced copy is replaced by uploading the packaged `.skill` from here. | claude.ai synced skill (upload), and Dropbox canonical if Joe wants it junctioned |
 
 ## Conventions
 

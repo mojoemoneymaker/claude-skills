@@ -12,12 +12,15 @@ Every ingest writes to two places on purpose:
    Status = `New`, Source Link back to the file or page it came from. This is the knowledge
    Joe retrieves from any thread or any AI. Joe's global rule: distilled sources are retrieved
    from Notion, never re-read.
-2. **This skill** (`sources/<teacher>-<slug>.md`, then `lessons.md` and `delivery.md`). This is
-   the operational rule set the skill applies without needing Notion in context. Each lesson
-   in `lessons.md` names its Knowledge Base entry so the two stay linked.
+2. **The skills** (`sources/<teacher>-<slug>.md` here, then `patterns.md` in this skill for
+   anything structural, and `spoken-script/references/delivery.md` or `lessons.md` for anything
+   about how a line is said). This is the operational rule set applied without Notion in
+   context. Each pattern names its Knowledge Base entry so the two stay linked. A lesson lives
+   in exactly one skill.
 
-The source file in this folder is the record of the extraction. `lessons.md` is the merged,
-deduplicated result. When they disagree, fix `lessons.md`; the source file is history.
+The source file in this folder is the record of the extraction. `patterns.md` (and the
+delivery files in `spoken-script`) are the merged, deduplicated result. When they disagree, fix
+the merged file; the source file is history.
 
 ## The ingest procedure
 
@@ -53,16 +56,17 @@ deduplicated result. When they disagree, fix `lessons.md`; the source file is hi
    Category `Mindset/Positioning` for stagecraft and speaking, `Sales` for call craft, `MC` for
    mic work. Offer Relevance `General` unless it is plainly one offer's. Belief Mapped only
    where a Core 6 belief genuinely fits. Page body: the rule, the why, the example, the
-   adoption status, and the skill reference (`spoken-script/references/lessons.md`).
+   adoption status, and the skill reference (`belief-patterns/references/patterns.md`, or
+   `spoken-script/references/delivery.md` for a delivery-only lesson).
 5. **Write the source file** here, `<teacher>-<slug>.md`, carrying every extracted lesson in the
    fixed shape plus the Knowledge Base URLs the run created, and a short header: where the
    source lives, when it was ingested, who spoke, and what was deliberately left out.
-6. **Merge into `lessons.md` and `delivery.md`.** Dedupe against existing lessons (a lesson that
-   is already there gets its source list extended, not a second entry). Keep the six job
-   groups. Put refused lessons in section 6 with the reason. Update `scopes.md` only if a
-   lesson changes what a scope does.
-7. **Leave SKILL.md alone** unless a new lesson category appeared that the reference map and
-   Mode A steps do not cover.
+6. **Merge.** Structural lessons into `patterns.md` (keep the five job groups), refused ones
+   into `refused.md` with the reason, delivery lessons into `spoken-script/references/delivery.md`
+   or `lessons.md`. Dedupe against what is there (an existing lesson gets its source list
+   extended, not a second entry). Update `lanes.md` only if a lesson changes what a lane does.
+7. **Leave both SKILL.md files alone** unless a new lesson category appeared that their
+   reference maps do not cover.
 8. **Update the registry** below. Then report to Joe: entries created (by type), lessons
    adopted, adapted and refused, coverage (full or partial), and anything needing his call.
    Everything is a draft until he approves.
@@ -80,4 +84,4 @@ deduplicated result. When they disagree, fix `lessons.md`; the source file is hi
 | The Art Of The Hook | Google Drive `ELI WILDE/` as a shortcut (`1OzYepwMAstxxk87eaODYCowTIqho611C`) | | blocked | Same shortcut problem. |
 | The Story Selling Structure | Google Drive `ELI WILDE/` as a shortcut (`1NjZtKWXXhfJCPvCGXRcqsm4J-q9_RJE_`) | | blocked | Same shortcut problem. The Story Selling System is named in Joe's notes as one of the two style pillars, so this one is worth unblocking. |
 | Eli Wilde, NLP For Sales (8-week video course) | Google Drive folder shared by `thehustlersvaultx@gmail.com` (`1vq4S9RU4YZYMSsNL__fRwNtsrPOK_msC`) | | not ingested | Not Joe's purchase, provenance unclear, and video would need transcription. Joe's decision. |
-| Eli Wilde speaker drills session (question control, attention generators, reframes, two sales, frames, identity sequence) | YouTube `dDCdGJ_TIZ0`, https://www.youtube.com/watch?v=dDCdGJ_TIZ0 (transcript pasted by Joe 2026-09-03) | 2026-09-03 | done | First source with verbatim Eli Wilde quotes, timestamped. `eli-wilde-speaker-drills-2025.md` |
+| Eli Wilde speaker drills session (question control, bridge questions, tie-downs, attention generators, reframes, two sales, frames, identity sequence) | YouTube `dDCdGJ_TIZ0`, https://www.youtube.com/watch?v=dDCdGJ_TIZ0 (transcript pasted by Joe 2026-09-03) | 2026-09-03 | done | First source with verbatim Eli Wilde quotes, timestamped. Tie-downs and bridge questions added 2026-09-03 after Joe named them. `eli-wilde-speaker-drills-2025.md` |
