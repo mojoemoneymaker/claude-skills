@@ -1,0 +1,33 @@
+{
+  "skill_name": "spoken-script",
+  "evals": [
+    {
+      "id": 1,
+      "name": "reel-teleprompter-mic-freeze",
+      "prompt": "write me a reel script I can read off the teleprompter, 60 to 90 seconds, about why DJs freeze on the mic at the grand entrance and why it's not a confidence problem. audience is working wedding DJs. the Accelerator is on waitlist right now so the CTA is the free community. give me the spoken text clean, no headings in it",
+      "expected_output": "A single clean spoken block with no inline labels, one belief, contractions, sentences that read in one breath, a rehook past 35 seconds, a free-community CTA with the benefit named and no seat counts, no em or en dashes, no banned words, labelled DRAFT. Delivery notes, if any, in a separate block.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "mc-grand-entrance",
+      "prompt": "I need what I say on the mic for a grand entrance this Saturday. reception for [Bride] and [Groom], six couples in the wedding party then the parents then the couple. I want the room up and loud but I don't want to sound like a cheesy DJ. write it the way I'd actually say it",
+      "expected_output": "Announcement text addressed to the room one person at a time, every name and pairing as a bracketed slot rather than invented, energy from pace and pause rather than adjectives, a plain final instruction to the room, no jokes at the couple's expense, no dashes, DRAFT label, short delivery notes on where to pause and where to lift.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "name": "discovery-call-opener",
+      "prompt": "give me a talk track for the first three minutes of a discovery call with a couple who found me on instagram. I want to set the frame for the 45 minutes and get them talking about what they're actually worried about for the reception. not salesy",
+      "expected_output": "An opener of roughly 30 to 90 seconds spoken by Joe that frames the forty-five minutes (never called short), hands the conversation to the couple with an open question, uses no sales language, no 'no pitch' disclaimer, no scarcity, no promised outcomes, and includes two or three follow-up questions Joe can ask. No dashes, DRAFT label.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "name": "mentorship-call-teaching-segment",
+      "prompt": "I'm opening this week's mentorship call with a 90 second teaching segment on why the first ten seconds of the grand entrance decides whether the dance floor works later. working wedding DJs on the call. write what I say, this is teaching not a reel",
+      "expected_output": "A 90-second teaching segment in Joe's voice: principle stated first, one real or clearly bracketed example (no invented wedding story), what the listener does with it, a participation prompt or question to the room, spoken register with contractions and one idea per sentence, no dashes, DRAFT label.",
+      "files": []
+    }
+  ]
+}
