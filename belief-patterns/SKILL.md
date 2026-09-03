@@ -109,6 +109,14 @@ Joe's paraphrase, Joe's own lines are marked as his.
 - No doubt planted. No urgency the offer cannot carry. No refused technique.
 - Every proof traced or slotted. Zero dashes, zero banned words, checker run
   (`spoken-script/scripts/read_aloud_check.py` works on any markdown).
+- No first-person story, observation or "in my experience" claim that Joe did not supply. A
+  sentence that starts "I used to" or "I've watched couples" is a fact about Joe, and an
+  invented one goes out under his name. If the piece needs it, write the bracketed slot and say
+  what it needs to contain.
+- The first sale never names the seller. A section, post or opener that exists to install the
+  process belief does not say "I", "Joe" or "DJ MOJOE" until the second sale begins.
+- A CTA never names the offer that is on waitlist, not even to contrast it with the free room.
+  "Open right now, no waitlist" is a scarcity cue in a nicer coat.
 - Labelled DRAFT, patterns named above it.
 
 ## Anti-patterns
@@ -119,4 +127,6 @@ Joe's paraphrase, Joe's own lines are marked as his.
 - A bridge question that has no answer in the next sentence.
 - A tie-down on a page.
 - Naming the doubt to deny it.
+- A first-person anecdote Joe did not supply.
+- Naming the waitlisted offer in a CTA.
 - Any technique from `refused.md`, however well it worked in the source.
