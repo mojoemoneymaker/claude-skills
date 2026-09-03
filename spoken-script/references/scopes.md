@@ -33,6 +33,9 @@ register, where the belief turn sits, and what the listener must be able to do n
 - The belief turn is small and physical: what the room should do next (stand, cheer, look
   toward the doors, raise a glass). Say it once, plainly, in the last line.
 - Never a joke at the couple's expense, never a line the couple has not heard before the day.
+- The deliverable may carry a short pre-event checklist (names and pronunciations from the
+  planner's sheet, who walks with whom, song hit points) outside the spoken block. The read
+  stays clean; the checklist stops the read from being said with a wrong name.
 
 ## Discovery-call and sales talk track
 

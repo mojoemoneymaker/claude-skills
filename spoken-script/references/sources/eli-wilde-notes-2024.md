@@ -251,8 +251,40 @@ craft and belongs, if anywhere, in Joe's Sales Mastery knowledge, not here.
 
 ## Knowledge Base entries created by this run
 
-Filled in after the Notion pages are created (Source = Eli Wilde, Status = New).
+Created 2026-09-03, Source = Eli Wilde, Status = New, in the WDJM Knowledge Base
+(`collection://d5d2ac86-fd33-44b0-9a91-1b24611fd0d2`). Thirty-two entries.
 
 | Entry | URL |
 |---|---|
-| pending | pending |
+| Principle: Speak to one person, never to the room | https://app.notion.com/p/3d02e7ac085c81ec894ad332ecb7e7bf |
+| Principle: The two beliefs that create presence | https://app.notion.com/p/3d02e7ac085c81f59dd7c1e3f1452f1e |
+| Principle: The speaker is a state inducer | https://app.notion.com/p/3d02e7ac085c81b9b5bfdd9d20f2665f |
+| Framework: The expert story opens the talk | https://app.notion.com/p/3d02e7ac085c81a19f2ef5b8f9238333 |
+| Principle: Attention is pattern work | https://app.notion.com/p/3d02e7ac085c81b6bc92f702cd6d1377 |
+| Tactic: Participation prompts | https://app.notion.com/p/3d02e7ac085c812fa198dd50a6a5eedf |
+| Framework: The Trust Trinity | https://app.notion.com/p/3d02e7ac085c81be9b12f6e4ee3d93e9 |
+| Principle: Be ordinary and extraordinary | https://app.notion.com/p/3d02e7ac085c8162b36eceb603fc35ca |
+| Tactic: Vulnerability as quid pro quo | https://app.notion.com/p/3d02e7ac085c81d0b6d6ea86a2be6b42 |
+| Principle: Authority comes from what you would not tolerate | https://app.notion.com/p/3d02e7ac085c81ba9103e117c9000d6b |
+| Principle: Describe their problem better than they can | https://app.notion.com/p/3d02e7ac085c81a7bcfbc190da6f41aa |
+| Tactic: Label the emotion, mirror the words | https://app.notion.com/p/3d02e7ac085c818a84e0d7174a48eb0a |
+| Principle: Seek to understand, not to argue | https://app.notion.com/p/3d02e7ac085c81aca0c9cd7774909c4e |
+| Principle: Change the association and the meaning changes | https://app.notion.com/p/3d02e7ac085c81b59e9ef2443510bd13 |
+| Principle: Tell the lesson inside a story | https://app.notion.com/p/3d02e7ac085c81f788c0fbcd4c6ed0cf |
+| Principle: Repetition and intensity install a belief | https://app.notion.com/p/3d02e7ac085c81b99978e6c0abd4bc80 |
+| Framework: The reframe (it's not that, it's this, and here's what that means) | https://app.notion.com/p/3d02e7ac085c81c9bb67e1982f6b4d42 |
+| Script/Language: Linking phrases | https://app.notion.com/p/3d02e7ac085c81d2826ae01715c530b8 |
+| Framework: Three layers of pain | https://app.notion.com/p/3d02e7ac085c81f1a6c0f0d49fad442b |
+| Principle: Words carry the logic, tone carries the feeling | https://app.notion.com/p/3d02e7ac085c816292e1d54bedf5d79a |
+| Framework: Four levels of teaching | https://app.notion.com/p/3d02e7ac085c8158810bf6a019c2ad0e |
+| Framework: Unique, relatable, applicable, directed | https://app.notion.com/p/3d02e7ac085c81d8a97dd62e522d789b |
+| Tactic: Teach as you give the testimonial | https://app.notion.com/p/3d02e7ac085c817d9d2ec19d77d21970 |
+| Principle: Decide the feeling before the words | https://app.notion.com/p/3d02e7ac085c81a3818bd9fcb3845aca |
+| Framework: Attention, Trust, Action | https://app.notion.com/p/3d02e7ac085c81dca0b3ca5e8f333344 |
+| Framework: Trust themselves (pre-handle the doubt they hold, paint the future they want) | https://app.notion.com/p/3d02e7ac085c816eb565e0316984c646 |
+| Tactic: Criteria questions, rated one to ten | https://app.notion.com/p/3d02e7ac085c81839c12d6a7981b7cee |
+| Script/Language: The perfect strategy line (mentorship room only) | https://app.notion.com/p/3d02e7ac085c8181afd6f03dcce2eaf1 |
+| Framework: The state before speaking (belief, physiology, outcome, rapport) | https://app.notion.com/p/3d02e7ac085c810a9346da22bc3f8615 |
+| Framework: Vocal modes and the charisma pattern (Sage, Warrior, Lover) | https://app.notion.com/p/3d02e7ac085c81dca2e9c6a8a71bebb9 |
+| Tactic: Eyes, gestures and face on stage or on camera | https://app.notion.com/p/3d02e7ac085c81ef8553dfc3dc59c900 |
+| Principle: Techniques refused from the Eli Wilde sources, and why | https://app.notion.com/p/3d02e7ac085c816cbc0dee150c982ea5 |

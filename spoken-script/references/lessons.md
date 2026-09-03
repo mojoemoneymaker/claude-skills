@@ -8,8 +8,8 @@ lesson names its source and its adoption status:
 - **not adopted**: recorded so the skill knows what it refuses and why. Never apply.
 
 Attribution is exact. "Joe's notes" means Joe's own paraphrase of a live event, not the
-teacher's words. Nothing below is a verbatim Eli Wilde quote; verbatim lines arrive only when a
-transcript is ingested (see `sources/README.md`). Each lesson names its Knowledge Base entry so
+teacher's words. Lines in quotation marks with a timestamp are verbatim from the speaker drills
+video (EW-drills-yt); everything else is paraphrase. Each lesson names its Knowledge Base entry so
 any other thread can retrieve it from Notion (Source = Eli Wilde).
 
 Sources in this file:
@@ -21,6 +21,9 @@ Sources in this file:
 - **NLP-3.0-cards**: the "NLP 3.0 Flashcards" deck in Joe's Drive folder "Eli Wilde NLP 3.0".
   The deck itself does not name an author and some cards cite other trainers, so it is
   attributed to the deck, not to Eli Wilde personally.
+- **EW-drills-yt**: Eli Wilde's speaker drills session on YouTube (`dDCdGJ_TIZ0`), ingested
+  2026-09-03 from the transcript Joe shared. The only source here with verbatim Eli Wilde
+  quotes; timestamps refer to that video. Full record in `sources/eli-wilde-speaker-drills-2025.md`.
 
 ---
 
@@ -70,6 +73,49 @@ answers, a raised hand, a one-to-ten rating. Why: a listener who has answered so
 part of the talk, and group answers create group agreement. Scopes: teaching, workshops,
 mentorship calls; in a reel the equivalent is a direct question the viewer answers in their
 head. Status: adopted. Source: EW-notes-2024-10-04. KB: Tactic: Participation prompts.
+
+**Question control: interrogate your own content.** Make a statement, then immediately ask
+yourself the question a listener would ask about it, then answer it. The answer is the next
+statement. "I said a statement and then I immediately asked myself a question about the
+statement I just made. And that sets up my next statement." (10:39) Why: four statements in a
+row go flat ("It started to get boring, yeah?" 10:33); a self-question breaks the monotony and
+"it's more believable ... they have less uncertainty if I interrogate my own content." (13:24)
+The drill: take any sentence, find the question that goes before it and the question that goes
+after it. Scopes: teaching, talks, reels, and sales calls, where the self-question replaces a
+monologue. Status: adopted. Source: EW-drills-yt. KB: Tactic: Question control.
+
+**Call and response.** Ask the room to say the key word back. "What's it called? Question
+control." (11:14) "What is it? Say it again. Action." (14:31) Why: the key word said by the room
+is the key word the room remembers; it is repetition done by the listener. Scopes: teaching,
+workshops, mentorship calls. In a reel the viewer answers in their head, so ask once and say
+the word once, plainly. Status: adopted. Source: EW-drills-yt. KB: Tactic: Call and response.
+
+**Attention generators.** Spoken signposts that reset attention before a point, from the
+session verbatim: "Here's what you need to remember. Bottom line is this. Here's the most
+important thing you want to think about. Here's why it's so important. Here's the crazy part.
+Check this out. Here's the fun part." (18:17) Why: "80% of influence is focus, it's controlling
+focus, and people's focus begins to wane." (18:38) The two questions in every listener's mind:
+"can I trust this person, and can I listen to this person." (20:05) "And it's not your fault.
+It's the speaker's fault." (20:24) Scopes: all; in a reel these are the rehooks, and the
+`wdjm-script-writer` rehook rule carries Joe's own versions. Guard: "this might shock you"
+earns its place only when what follows would in fact surprise the listener. Status: adopted.
+Source: EW-drills-yt. KB: Script/Language: Attention generators.
+
+**The thesis pattern: one word, then why, then what it means.** A provocative claim that lands
+on one word, a self-question why, the answer, a self-question what that means, the
+implication. "By far, the number one most common thing holding people back from getting the
+life they want comes down to one word, action. So why is action the number one thing holding
+people back?" (14:00) "So what does it mean to take action? It means..." (15:07) Why: it is
+question control applied to a whole point, and it hands the listener the one word to hold.
+Scopes: teaching openers, reels, talks. Status: adopted. Source: EW-drills-yt. KB: Framework:
+The thesis pattern.
+
+**It's a rhythm, and Joe's will sound like Joe.** "It's a rhythm. And how you do the same
+thing, it'll sound different from you. And you'll ask yourself questions, and it just breaks up
+the monotony." (15:19) Why: the pattern is the skeleton; the voice is the speaker's, and a
+copied phrasing sounds copied. A device that fits Joe: the self-quote. "Somebody once told me
+that if I want to be successful, I need to start speaking. And I thought, is that true?"
+(15:52) Scopes: all. Status: adopted. Source: EW-drills-yt. KB: Principle: It's a rhythm.
 
 ---
 
@@ -128,6 +174,24 @@ defends; a listener who feels understood explores. Scopes: sales calls, objectio
 Status: adopted. Source: NLP-3.0-cards (cards 44, 86, 92). KB: Principle: Seek to understand,
 not to argue.
 
+**Demonstrate the gap, do not describe it.** "I pull people on stage and I speak better than
+them most of the time. So they see there's a gap and they like it and there's a
+demonstration." (05:07) Why: a shown skill is believed, a claimed skill is doubted. Scopes:
+talks and workshops; for Joe's reels the demonstration is the footage (the a cappella end of
+night, the hip-hop to Spanish transition), never a claim about it. Adapted so the demonstration
+never humiliates a participant. Status: adapted. Source: EW-drills-yt. KB: Principle:
+Demonstrate the gap.
+
+**Wrap the question: acknowledge before you move on.** Answer what they said before asking
+the next thing. "I totally get that, and the fact that you're wanting to improve this already
+puts you ahead of so many people." (28:08) "I didn't just go to the next question. How long have
+you had this problem? A year? Okay. And how's that been impacted on you? ... it jumps ahead too
+much. It's the wrapping of the question." (28:29) Why: the listener is rewarded for saying
+something true and goes further next time. Scopes: sales calls, mentorship calls, any
+interview. Guard: the source also says "I can take any bad answer and make it into a good
+answer" (29:48). Reflect what they said and name what is useful in it; never rewrite it, and
+never for a couple. Status: adapted. Source: EW-drills-yt. KB: Tactic: Wrap the question.
+
 ---
 
 ## 3. Take on one belief
@@ -173,19 +237,76 @@ not want the thing, they want what the thing does for them, and a spoken sentenc
 link leaves them to do the work. Scopes: all, and sales talk tracks especially. Status:
 adopted. Source: EW-notes-2024-10-05. KB: Script/Language: Linking phrases.
 
-**Three layers of pain.** Surface ("I want a fun reception"), action ("so my guests dance all
-night"), transformational ("because it's the one night my whole family is in one room, and I
-want them to remember it"). Speak to the deepest layer the listener has shown you, never a
-layer they have not. Why: the belief that moves someone lives at the third layer. Scopes:
-sales calls (ask down through the layers), reels and talks (write to the layer). Status:
-adapted; the cards use it to extract pain, this skill uses it to aim the message. Source:
-NLP-3.0-cards (card 52). KB: Framework: Three layers of pain.
+**Three layers of pain, or surface, source, self.** Surface ("I want a fun reception"),
+action ("so my guests dance all night"), transformational ("because it's the one night my whole
+family is in one room, and I want them to remember it"). Eli's names for the same ladder:
+"surface, source, and self, I walk them down it." (27:26) "deepest frame is identity, you're
+not selling a new way of thinking, you're selling a different version of themselves." (30:35)
+Speak to the deepest layer the listener has shown you, never a layer they have not. Why: the
+belief that moves someone lives at the third layer. Scopes: sales calls (ask down through the
+layers with "what would that mean to you?"), reels and talks (write to the layer). Status:
+adapted; the sources use it to extract pain, this skill uses it to aim the message and to
+understand. Source: NLP-3.0-cards (card 52), EW-drills-yt. KB: Framework: Three layers of pain.
 
 **Words carry the logic, tone carries the feeling.** A belief is installed by both. Conviction
 corrects tonality: a speaker who believes the line will say it right. Why: the listener
 believes the tone before the words. Scopes: all live moments; for a teleprompter read it is
 the reason delivery notes exist. Status: adopted. Source: NLP-3.0-cards (cards 57, 94),
 EW-notes-2024-10-04 (closer composure). KB: Principle: Words carry logic, tone carries feeling.
+
+**Two sales, and the process comes before the product.** "There's two sales the audience needs
+to be sold on." (04:13) "They need to believe the approach, vehicle, process to achieve."
+(04:29) Then "you believe your product is the best way for them to take advantage of the
+approach and vehicle." (04:40) "it's hard to make the second sale for your product unless
+you've made the first." (09:13) Why: the crypto example, a trading software pitched to someone
+not yet sold on crypto. For a couple, the first sale is that the reception is run by one voice
+and who that voice is decides the night; the DJ is the second. Scopes: sales calls, talks,
+reels that carry a CTA. Status: adopted; this is the Trust Trinity's third leg in Eli's own
+words. Source: EW-drills-yt. KB: Framework: Two sales, process before product.
+
+**The through line.** One thesis, said over and over, that every piece of content anchors to.
+"The quality of your life is the quality of communication. And you cannot not communicate."
+(05:02) "I just keep on saying things like that. That's all ... anchors to my through line."
+(05:38) The dance-lessons example: "the key to your great relationship ... is having these
+immersive experiences. And the best way to improve this bonding with your wife is through
+dance. See how I'm setting it up so all of the content I'm anchoring to that." (06:54) Why:
+repetition installs the first sale before the second is mentioned. Scopes: talks, a content
+series, a curriculum. Joe's DJ MOJOE through line is already approved copy ("A night your
+guests keep talking about, and one you actually get to enjoy"); the WDJM Core 6 beliefs are
+the candidates for the WDJM one. Status: adopted. Source: EW-drills-yt. KB: Framework: The
+through line.
+
+**Reframes stay connected, or they are recitation.** The basic shape, verbatim: "It's not this.
+It's that. And here's what it means. That is the most basic reframe." (02:45) The warning: a
+rep who "said money aside like eight times ... there's no connection. It just, she completely
+lost the frame." (02:04) Why: a reframe is a change in the listener's picture, and a recited
+technique changes nothing. This is the source for the anti-pattern in SKILL.md. Status:
+adopted. Source: EW-drills-yt. KB: part of Framework: The reframe.
+
+**A frame is control of focus, and two levers run every belief.** "the frame is like
+controlling somebody's focus." (23:27) "whatever you focus on, you feel, two levers run every
+belief, focus and meaning. So I'm shifting focus and I'm changing the meaning." (25:16) Eli's
+definition of the job: "to be a builder and breaker of belief and a master and molder of
+meaning." (24:59) The results chain, for teaching: "results in people's lives come from their
+actions, actions come from decisions, decisions come from our thoughts and feelings, and all of
+our thoughts and feelings come from our beliefs ... all of your beliefs have come from your
+experiences or references." (25:54) Then the honest question: "is it possible that some of the
+beliefs that you've created from references in your past could be disempowering you in some
+way?" (26:18) Scopes: teaching, talks, mentorship. Guard: the redefine "it's not that you don't
+have money, it's just that you don't have the skills" (23:48) plants a deficiency when said to
+a couple and is refused there; said to a DJ who asked why bookings are flat it is Joe's own
+teaching and is allowed. Status: adopted (mechanism), the money redefine restricted to the
+mentorship room. Source: EW-drills-yt. KB: Framework: A frame is control of focus.
+
+**The story arc: conflict, loss, then delay, deny, distract.** "all stories follow an arc ...
+there's a conflict and then there's a sense of loss. And then when people experience a sense of
+loss, they usually do one of three things. They delay, they deny, or they get distracted."
+(22:10) Why: the listener recognises their own delay, denial or distraction in the story before
+the speaker names it. Scopes: Joe's own arc in talks and reels; the before, mistake,
+realisation, after of `wdjm-script-writer`'s Story mode maps onto it. Guard: "Most of you have
+a victim story, a complaining story" (21:57) said to a room is a verdict; not used on couples,
+and in the mentorship room only as an invitation. Status: adopted for structure, the labelling
+refused. Source: EW-drills-yt. KB: Framework: The story arc.
 
 ---
 
@@ -267,6 +388,22 @@ listener's own terms. Scopes: teaching DJs only. Status: adapted and restricted:
 mentorship room where the DJ asked for help; never said to a couple, where it reads as
 pressure. Source: EW-notes-2024-10-04. KB: Script/Language: The perfect strategy line.
 
+**The version-of-you sequence (mentorship room only).** "What do you really want? Are your
+current beliefs, decisions, and actions taking you there? The version of you who's already
+there, what's different about them?" (31:24) "When would be the most appropriate time for you
+to step into that version of yourself?" (32:08) "Which version of you has been in a better
+position? The one who feels fear and moves anyway, or the one who keeps delaying because it's
+easier?" (34:22) "So what do you need to let go of?" (34:28) Why: "For someone to take a new
+action they first have to see themselves as the person who takes it." (30:45) The parts frame
+belongs with it: "it sounds like there's a part of you that's a bit scared ... you've got
+another part. The part that brought you to this call, the part that's hopeful ... What would
+that version of you say to this version of you that's a little scared?" (24:20) Scopes:
+mentorship calls and workshops with DJs who asked for help. Status: adapted and restricted.
+Refused entirely for couples: choosing a DJ is not stepping into a new identity and the
+sequence reads as pressure. In the mentorship room the pressure line "Do you really believe
+that? Or are you just trying to be nice?" (32:14) is cut; "why though?" stays. Source:
+EW-drills-yt. KB: Framework: The version-of-you sequence.
+
 ---
 
 ## 6. Not adopted
@@ -293,3 +430,13 @@ Recorded so the skill knows what it is refusing. Each one collides with a Joe la
   Source: NLP-3.0-cards (cards 95, 136).
 - **Any line that promises a result, a number, or a timeline Joe cannot point to.** FTC rule
   and `joe-copy-standards` rule 6. Several cards carry these; none are used.
+- **Authority tropes without a source.** At 17:50 in the drills video Eli reaches for a stat
+  ("80% of tennis matches are spent not hitting a single ball", then "studies have shown,
+  research has proven, the debate is over") and admits he cannot verify it. That moment is the
+  fabrication ban in action. No "studies show" without a source Joe can name. Also "Now I just
+  increased your dopamine" (18:30). Source: EW-drills-yt.
+- **Consequence future pacing as pressure; "Do you really believe that, or are you just trying
+  to be nice?"; labelling a room "victim story"; rewriting a listener's answer into "a good
+  answer".** Pressure and verdicts. Source: EW-drills-yt (24:06, 32:14, 21:57, 29:48).
+- **Eli's own credentials and prices.** "Nine figures", "100 million", course pricing. His
+  facts, never in Joe's mouth. Source: EW-drills-yt.

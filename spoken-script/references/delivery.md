@@ -83,6 +83,23 @@ A slight smile most of the time. The feeling behind it, from the notes: "I know 
 don't know", "I care about you", "I want to have fun with you". An animated face reads; a still
 face reads as absent.
 
+## Rhythm
+
+Statement, then the question a listener would ask about it, then the answer. That is the
+cadence of a speaker who is easy to listen to, and it is the one thing in this file that comes
+from a verbatim source: "I said a statement and then I immediately asked myself a question
+about the statement I just made. And that sets up my next statement." (Eli Wilde, speaker
+drills video, 10:39) Four statements in a row go flat. A self-question resets the ear.
+
+Three spoken devices that carry the rhythm, all from the same session:
+
+- The self-question. "So how do we actually do this? Well..."
+- Call and response. "What's it called? Question control." The room says the word.
+- The attention generator before the point. "Here's the part most people miss."
+
+Joe's rhythm will not sound like Eli's. "It's a rhythm. And how you do the same thing, it'll
+sound different from you." (15:19) Write the self-questions in Joe's words, at Joe's pace.
+
 ## Writing delivery notes
 
 Keep them short, and only where they change how a line is said. The shape:
