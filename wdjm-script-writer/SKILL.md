@@ -1,6 +1,6 @@
 ---
 name: wdjm-script-writer
-description: Writes high-retention short-form video scripts (Reels, Shorts, TikTok) for DJ MOJOE, Wedding DJ Mastery, and adjacent expert offers using a belief-shifting framework. Use this skill whenever the user asks to "write a script", "draft a Reel", "make a Short", "create video content", "shift a belief", "do a contrarian reframe", or mentions DJ MOJOE, Wedding DJ Mastery, WDJM, the Accelerator, wedding DJs, MC mastery, or wants short-form video for a coaching/expert offer with calm-authority voice. Also triggers on "mine beliefs from this transcript", "extract belief candidates", or hand-offs of mentorship-call transcripts that need turned into content. Default to this skill any time the user is producing short-form video aimed at booking premium wedding clients or shifting how a specific audience thinks about a problem.
+description: Writes high-retention short-form video scripts (Reels, Shorts, TikTok) for DJ MOJOE, Wedding DJ Mastery, and adjacent expert offers using a belief-shifting framework. Use this skill whenever the user asks to "write a script", "draft a Reel", "make a Short", "create video content", "shift a belief", "do a contrarian reframe", or mentions DJ MOJOE, Wedding DJ Mastery, WDJM, the Accelerator, wedding DJs, MC mastery, or wants short-form video for a coaching/expert offer with calm-authority voice. Also triggers on "mine beliefs from this transcript", "extract belief candidates", or hand-offs of mentorship-call transcripts that need turned into content. Default to this skill any time the user is producing short-form video aimed at booking premium wedding clients or shifting how a specific audience thinks about a problem. Uses belief-patterns for the structure (the reframe, two sales, question control, bridge questions, attention generators) and spoken-script as the last pass on the teleprompter text.
 ---
 
 # WDJM Adaptive Short-Form Video Script Writer
@@ -32,6 +32,8 @@ Most requests can be drafted from this SKILL.md alone. Load a reference file onl
 | User pasted a transcript and wants beliefs mined from it | `references/transcript-mining.md` |
 
 Don't load all of them by default — pull the one the current request actually needs.
+
+Two sibling skills carry what this file does not restate. `belief-patterns` (`references/patterns.md`) holds the persuasion structure: the reframe and its guard, two sales, question control, bridge questions, attention generators, the one-word thesis, the through line. `spoken-script` holds delivery: the read-aloud pass, vocal modes, the checker. Point at them; never copy them in here.
 
 ## Workflow
 
@@ -71,6 +73,8 @@ Pick the belief that:
 - Creates a clean reframe (one clear before → after)
 - Is shiftable in 120–180 words
 
+**The belief is the first of two sales.** The viewer has to accept the belief (the process) before the offer (the product) can make sense, which is why the CTA comes last and depends on the belief. `belief-patterns` carries this as "two sales, process before product" and "the through line"; the Core 6 beliefs are the WDJM through lines.
+
 **Prefer contrarian when it's sharper and still true.** A contrarian belief says: *the real problem isn't what you think* / *the obvious fix isn't the real fix* / *the leverage point is upstream*. Never invent fake controversy — if it doesn't survive the "is this actually true and useful?" test, drop it.
 
 ### Step 3 — Pick a story mode for the body
@@ -82,6 +86,8 @@ One mode per script. Match the mode to the belief type — see `references/story
 - Belief is teachable through Joseph's own arc → **Story** mode (before / mistake / realization / after)
 - Belief is "stop doing X, start doing Y" → **Myth Breaker** mode
 - Belief is about identity / who they're becoming → **Identity Shift** mode
+
+Contrarian Reframe mode is the reframe pattern in `belief-patterns` (it's not this, it's that, and here's what it means). Its guard applies here: the reframe stays connected to what the viewer already believes and is written fresh; a template with the blanks filled in reads as a template. The one-word thesis pattern there ("it comes down to one word") is a hook shape worth trying for Diagnostic and Myth Breaker scripts.
 
 ### Step 4 — Draft to the body architecture
 
@@ -110,6 +116,7 @@ A hook earns the next 5 seconds. Four standards:
 ### Step 6 — Retention mechanics
 
 - **Rehook rule:** If the script runs past ~35 seconds (roughly 90+ words), add at least one rehook. Examples: *"But here's what most DJs miss." / "Here's the part that gets expensive." / "And this is where most DJs get stuck."*
+- **Question control and bridges:** the rehook is one of the attention generators in `belief-patterns`. Between beats, ask the question the viewer was about to think and answer it ("So what's actually going on? Your brain's doing two jobs at once."), and use a bridge question to turn toward relevance ("So what does that mean for your next consult?"). At most one tie-down ("make sense?"), at the turn, and only if it sounds like Joe.
 - **Thought narration:** Name what the viewer is thinking. *"At this point you're probably thinking, okay, so what do I fix first?"*
 - **Embedded truths:** Prefer *"when this shifts" / "once you understand this" / "the reason this matters is"* over hedge words. But don't fake certainty — say *"in my experience"* when that's the honest frame.
 - **Term branding:** If a recurring idea benefits from a short label (*gear trap, trust leak, consult gap*), invent one. Only when it adds clarity.
@@ -147,6 +154,7 @@ Run this mentally before the script ships. If any check fails, fix it.
 - **Truth:** Exactly one trust anchor? Every claim factual? No unverified outcomes?
 - **CTA:** Feels earned, not bolted on?
 - **Compression:** Can any line be shorter? Does every line earn its place?
+- **Spoken:** Run the `spoken-script` skill as the last pass on the teleprompter text: one breath per sentence, no eye-only punctuation, delivery notes outside the read, checker clean.
 
 ## Multi-script behavior
 
