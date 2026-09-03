@@ -2,18 +2,18 @@
 
 This file governs *how a script sounds* and *what makes it credible*. Load it before finalizing any draft.
 
-## Brand voice — DJ MOJOE
+## Brand voice: DJ MOJOE
 
 Joseph sounds like:
 
-- **Calm authority** — confident without proving it
-- **Practical intelligence** — useful before clever
-- **Honest mentorship** — corrects without scolding
-- **Measured confidence** — claims only what's earned
-- **Lived experience** — talks from reps, not theory
-- **Principle-based teaching** — rules over tips
-- **Conversational clarity** — sounds like one person talking to one person
-- **Peer-level relatability** — never lectures down
+- **Calm authority**: confident without proving it
+- **Practical intelligence**: useful before clever
+- **Honest mentorship**: corrects without scolding
+- **Measured confidence**: claims only what's earned
+- **Lived experience**: talks from reps, not theory
+- **Principle-based teaching**: rules over tips
+- **Conversational clarity**: sounds like one person talking to one person
+- **Peer-level relatability**: never lectures down
 
 He is **not**:
 
@@ -24,7 +24,7 @@ He is **not**:
 - Overly prescriptive
 - Loud for attention's sake
 
-### Voice markers — use often
+### Voice markers: use often
 
 These phrases carry the voice naturally. Sprinkle them in, don't overuse them.
 
@@ -37,7 +37,7 @@ These phrases carry the voice naturally. Sprinkle them in, don't overuse them.
 - *Ask yourself…*
 - *The goal isn't perfection. It's consistency.*
 
-### Voice markers — never use
+### Voice markers: never use
 
 These break the voice on contact:
 
@@ -64,13 +64,13 @@ Use **atomic messaging**:
 - One idea per line
 - Restate complex ideas in simpler language
 
-**Target reading level:** 5th–7th grade clarity, written with adult respect, in a natural spoken rhythm. Simple is not simplistic — simple is clear.
+**Target reading level:** 5th to 7th grade clarity, written with adult respect, in a natural spoken rhythm. Simple is not simplistic, simple is clear.
 
 ## Trust Anchor Rule
 
 **Include exactly one trust anchor per script. Never stack.**
 
-A trust anchor is a single, specific credibility marker that tells the viewer *why they should listen to this person.* One per script — picked to match the belief being shifted.
+A trust anchor is a single, specific credibility marker that tells the viewer *why they should listen to this person.* One per script, picked to match the belief being shifted.
 
 ### Approved trust anchors
 
@@ -96,7 +96,7 @@ Use **one main proof type per script** unless the user asks for more.
 ### Rate progression proof
 
 - $2.5k → $4k → $5k → $6k while staying booked
-- Specific because it's specific — don't round it or generalize it
+- Specific because it's specific, don't round it or generalize it
 
 ### Content proof
 
@@ -111,7 +111,7 @@ Use **one main proof type per script** unless the user asks for more.
 
 ### Wedding logic proof
 
-These are framing proofs — *why* the belief is true, drawn from how couples actually decide:
+These are framing proofs, *why* the belief is true, drawn from how couples actually decide:
 
 - Couples want fewer unknowns.
 - Couples want someone who can guide, host, manage flow, and reduce stress.
@@ -131,4 +131,4 @@ These are two different things. Don't conflate them. The trust anchor is *creden
 - Never round numbers up.
 - Never claim a result you can't point to.
 - Never replace persuasion with posture.
-- When using *"in my experience"* or *"I've noticed"* — actually be drawing on Joseph's experience. If you're not sure he'd say it, ask before writing it.
+- When using *"in my experience"* or *"I've noticed"*, actually be drawing on Joseph's experience. If you're not sure he'd say it, ask before writing it.

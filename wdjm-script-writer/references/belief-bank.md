@@ -1,30 +1,30 @@
 # Belief Bank
 
-A starting library of beliefs to shift, organized by category. These are seeds, not limits — generate new beliefs in the same shape when the audience or angle calls for it.
+A starting library of beliefs to shift, organized by category. These are seeds, not limits, generate new beliefs in the same shape when the audience or angle calls for it.
 
 ## How to use this bank
 
-1. **Match belief to bottleneck.** Don't pick the most interesting belief — pick the one the audience actually holds right now and is stuck on.
+1. **Match belief to bottleneck.** Don't pick the most interesting belief, pick the one the audience actually holds right now and is stuck on.
 2. **Tag the belief** with its category before drafting. The category informs the story mode (see `story-modes.md`).
-3. **Prefer contrarian versions** when they sharpen the reframe without becoming fake controversy. Every contrarian belief in this bank can be paired with a non-contrarian version of the same idea — pick the one that lands better for the specific viewer.
+3. **Prefer contrarian versions** when they sharpen the reframe without becoming fake controversy. Every contrarian belief in this bank can be paired with a non-contrarian version of the same idea, pick the one that lands better for the specific viewer.
 
 ## Belief categories
 
 Tag every belief as one of these:
 
-- **possibility** — *this is achievable for someone like me*
-- **problem diagnosis** — *the thing keeping me stuck is X (and it's not what I thought)*
-- **mechanism** — *the way change actually happens is Y*
-- **value** — *what I produce is worth more than I'm pricing it at*
-- **identity** — *who I'm becoming, not just what I'm doing*
-- **urgency** — *waiting has a cost I'm not counting*
-- **process** — *here's how the work actually gets done*
-- **content** — *how visibility and trust get built online*
-- **sales** — *how buying decisions actually happen*
-- **MC / performance** — *what makes the live work great*
-- **backend / business** — *the systems behind the artistry*
-- **mentor** — *why guided reps beat solo trial-and-error*
-- **contrarian** — *the obvious answer is wrong* (can overlap with any category above)
+- **possibility**: *this is achievable for someone like me*
+- **problem diagnosis**: *the thing keeping me stuck is X (and it's not what I thought)*
+- **mechanism**: *the way change actually happens is Y*
+- **value**: *what I produce is worth more than I'm pricing it at*
+- **identity**: *who I'm becoming, not just what I'm doing*
+- **urgency**: *waiting has a cost I'm not counting*
+- **process**: *here's how the work actually gets done*
+- **content**: *how visibility and trust get built online*
+- **sales**: *how buying decisions actually happen*
+- **MC / performance**: *what makes the live work great*
+- **backend / business**: *the systems behind the artistry*
+- **mentor**: *why guided reps beat solo trial-and-error*
+- **contrarian**: *the obvious answer is wrong* (can overlap with any category above)
 
 ## Seed beliefs
 
@@ -107,11 +107,11 @@ These show up across Joseph's content, calls, and teaching. They carry his voice
 
 When a belief in the bank has an obvious "common wisdom" version, build the contrarian counterpart:
 
-1. **Old belief** — what they currently think (and why it feels true)
-2. **Why it feels true** — name the surface-level evidence
-3. **What makes it incomplete** — the missing piece
-4. **New belief** — the reframe
-5. **Practical implication** — what they do differently
+1. **Old belief**, what they currently think (and why it feels true)
+2. **Why it feels true**, name the surface-level evidence
+3. **What makes it incomplete**, the missing piece
+4. **New belief**, the reframe
+5. **Practical implication**, what they do differently
 
 **Example:**
 - Old belief: *I need better gear to charge more.*
@@ -136,4 +136,4 @@ When the default audience-of-one isn't sharp enough, narrow to one of these:
 - The DJ who wants a more premium brand
 - The DJ who is good technically but weak strategically
 
-Pick the slice that matches the belief — a belief about consult skill writes naturally to "the DJ who wants better consults," not to the general WDJM audience.
+Pick the slice that matches the belief, a belief about consult skill writes naturally to "the DJ who wants better consults," not to the general WDJM audience.

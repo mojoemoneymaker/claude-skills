@@ -7,7 +7,7 @@ description: Writes high-retention short-form video scripts (Reels, Shorts, TikT
 
 A belief-shifting short-form scriptwriting system for DJ MOJOE, Wedding DJ Mastery, and other expert offers built on calm-authority mentorship voice.
 
-This skill is not a generic scriptwriter. It writes scripts that **shift a specific belief** in a **specific viewer** toward a **specific next step** — and it does that consistently across one offer or many.
+This skill is not a generic scriptwriter. It writes scripts that **shift a specific belief** in a **specific viewer** toward a **specific next step**, and it does that consistently across one offer or many.
 
 ## Core philosophy
 
@@ -17,7 +17,7 @@ Every script does three things, in order:
 2. **Earn the shift with one specific proof or story.** Not three. One that lands.
 3. **Make the next step feel obvious for the right viewer.** The CTA is a continuation of the lesson, not an ad bolted on.
 
-The script *format* stays stable. What changes per request: offer, audience slice, belief, angle, proof, CTA. Think of this skill as a stable scaffolding with swappable variables — not a template library.
+The script *format* stays stable. What changes per request: offer, audience slice, belief, angle, proof, CTA. Think of this skill as a stable scaffolding with swappable variables, not a template library.
 
 ## When to use the reference files
 
@@ -31,55 +31,55 @@ Most requests can be drafted from this SKILL.md alone. Load a reference file onl
 | Picking proof, applying voice rules, picking a trust anchor | `references/voice-and-proof.md` |
 | User pasted a transcript and wants beliefs mined from it | `references/transcript-mining.md` |
 
-Don't load all of them by default — pull the one the current request actually needs.
+Don't load all of them by default, pull the one the current request actually needs.
 
 Two sibling skills carry what this file does not restate. `belief-patterns` (`references/patterns.md`) holds the persuasion structure: the reframe and its guard, two sales, question control, bridge questions, attention generators, the one-word thesis, the through line. `spoken-script` holds delivery: the read-aloud pass, vocal modes, the checker. Point at them; never copy them in here.
 
 ## Workflow
 
-### Step 1 — Read the request and decide if you have enough
+### Step 1: Read the request and decide if you have enough
 
 You need five things to produce a strong script. Check the user's message for them first; only ask for what's actually missing:
 
 **Required:**
-1. **Offer** — Accelerator? MC Mastery workshop? Something else? (Default: Wedding DJ Mastery Accelerator if user mentions WDJM / DJ MOJOE without specifying.)
-2. **Audience slice** — Who exactly? (Default: the WDJM audience of one below.)
-3. **Belief(s)** — What old belief is being challenged? What new belief replaces it? (If missing, see Step 2.)
-4. **Script count** — How many scripts? (Default: 1 if not specified.)
-5. **CTA destination** — Where should viewers go? (Default: soft invite to the named offer.)
+1. **Offer**, Accelerator? MC Mastery workshop? Something else? (Default: Wedding DJ Mastery Accelerator if user mentions WDJM / DJ MOJOE without specifying.)
+2. **Audience slice**, Who exactly? (Default: the WDJM audience of one below.)
+3. **Belief(s)**, What old belief is being challenged? What new belief replaces it? (If missing, see Step 2.)
+4. **Script count**, How many scripts? (Default: 1 if not specified.)
+5. **CTA destination**, Where should viewers go? (Default: soft invite to the named offer.)
 
 **Default WDJM audience of one** (use unless told otherwise):
-> A solo mobile wedding DJ, often part-time, doing 10–20 weddings/year at $1.5k–$2k, overwhelmed by gear-talk and scattered marketing advice, who wants to become an in-demand $4k–$6k DJ without sleazy tactics.
+> A solo mobile wedding DJ, often part-time, doing 10 to 20 weddings/year at $1.5k to $2k, overwhelmed by gear-talk and scattered marketing advice, who wants to become an in-demand $4k to $6k DJ without sleazy tactics.
 
 **Rules for asking:**
-- If everything required is present or can default sensibly, **don't ask — just write**. Surface defaults inline ("I'm assuming the Accelerator and the default WDJM audience — say so if that's off").
+- If everything required is present or can default sensibly, **don't ask, just write**. Surface defaults inline ("I'm assuming the Accelerator and the default WDJM audience, say so if that's off").
 - Ask only for variables that are *both* missing *and* can't default. Most often that's belief and CTA destination.
 - If the user pasted a transcript, **also** ask: extract-only, extract+recommend, or extract+write? (See `references/transcript-mining.md`.)
 - If "same setup as before", reuse prior turn's variables verbatim.
 
-### Step 2 — Get a belief, in priority order
+### Step 2: Get a belief, in priority order
 
 If the user gave you a belief, use it. If not, work down this list:
 
 1. **User-provided belief** for this request
 2. **Transcript-derived belief** if a transcript is in the request → `references/transcript-mining.md`
 3. **Bank belief** matched to the audience's likely bottleneck → `references/belief-bank.md`
-4. **Inferred contrarian belief** from what Joseph repeatedly teaches — use the contrarian formula (old / why it feels true / what makes it incomplete / new / practical implication)
+4. **Inferred contrarian belief** from what Joseph repeatedly teaches, use the contrarian formula (old / why it feels true / what makes it incomplete / new / practical implication)
 5. **Only then ask the user** to supply or pick one
 
 Pick the belief that:
 - Matches the audience's current bottleneck (don't shift a belief they don't hold)
 - Has strong available proof
 - Creates a clean reframe (one clear before → after)
-- Is shiftable in 120–180 words
+- Is shiftable in 120 to 180 words
 
 **The belief is the first of two sales.** The viewer has to accept the belief (the process) before the offer (the product) can make sense, which is why the CTA comes last and depends on the belief. `belief-patterns` carries this as "two sales, process before product" and "the through line"; the Core 6 beliefs are the WDJM through lines.
 
-**Prefer contrarian when it's sharper and still true.** A contrarian belief says: *the real problem isn't what you think* / *the obvious fix isn't the real fix* / *the leverage point is upstream*. Never invent fake controversy — if it doesn't survive the "is this actually true and useful?" test, drop it.
+**Prefer contrarian when it's sharper and still true.** A contrarian belief says: *the real problem isn't what you think* / *the obvious fix isn't the real fix* / *the leverage point is upstream*. Never invent fake controversy, if it doesn't survive the "is this actually true and useful?" test, drop it.
 
-### Step 3 — Pick a story mode for the body
+### Step 3: Pick a story mode for the body
 
-One mode per script. Match the mode to the belief type — see `references/story-modes.md` for the full set, but the common defaults:
+One mode per script. Match the mode to the belief type, see `references/story-modes.md` for the full set, but the common defaults:
 
 - Belief is "you misdiagnosed your problem" → **Diagnostic** mode
 - Belief is "the obvious answer is wrong" → **Contrarian Reframe** mode
@@ -89,41 +89,41 @@ One mode per script. Match the mode to the belief type — see `references/story
 
 Contrarian Reframe mode is the reframe pattern in `belief-patterns` (it's not this, it's that, and here's what it means). Its guard applies here: the reframe stays connected to what the viewer already believes and is written fresh; a template with the blanks filled in reads as a template. The one-word thesis pattern there ("it comes down to one word") is a hook shape worth trying for Diagnostic and Myth Breaker scripts.
 
-### Step 4 — Draft to the body architecture
+### Step 4: Draft to the body architecture
 
 Every script follows this sequence:
 
-1. **Hook** (1–3 sentences) — see hook standards below
-2. **Familiar setup** — name the situation the viewer is in
-3. **Specific proof, story, or symptom** — one piece, not a list
-4. **Reframe** — the belief shift, made plain
-5. **Takeaway** — what changes for them now
-6. **Soft CTA** — natural next step
+1. **Hook** (1 to 3 sentences), see hook standards below
+2. **Familiar setup**, name the situation the viewer is in
+3. **Specific proof, story, or symptom**, one piece, not a list
+4. **Reframe**, the belief shift, made plain
+5. **Takeaway**, what changes for them now
+6. **Soft CTA**, natural next step
 
 Each main beat invisibly carries: *what it is → how it shows up → why it matters.* Don't surface this structure; let it work underneath.
 
-### Step 5 — Hook standards (every hook must pass)
+### Step 5: Hook standards (every hook must pass)
 
 A hook earns the next 5 seconds. Four standards:
 
-1. **Clarity** — viewer knows the subject immediately
-2. **Relevance** — the *right* viewer feels called out
-3. **Curiosity** — one clear open loop (not three)
-4. **Speed to value** — value starts in sentence one, not sentence three
+1. **Clarity**, viewer knows the subject immediately
+2. **Relevance**, the *right* viewer feels called out
+3. **Curiosity**, one clear open loop (not three)
+4. **Speed to value**, value starts in sentence one, not sentence three
 
 **One subject, one question.** If the hook is trying to do two things, cut one. Use "you" early. Use contrast words generously: *but, actually, instead, turns out, yet, except.* See `references/hook-bank.md` for proven patterns.
 
-### Step 6 — Retention mechanics
+### Step 6: Retention mechanics
 
 - **Rehook rule:** If the script runs past ~35 seconds (roughly 90+ words), add at least one rehook. Examples: *"But here's what most DJs miss." / "Here's the part that gets expensive." / "And this is where most DJs get stuck."*
 - **Question control and bridges:** the rehook is one of the attention generators in `belief-patterns`. Between beats, ask the question the viewer was about to think and answer it ("So what's actually going on? Your brain's doing two jobs at once."), and use a bridge question to turn toward relevance ("So what does that mean for your next consult?"). At most one tie-down ("make sense?"), at the turn, and only if it sounds like Joe.
 - **Thought narration:** Name what the viewer is thinking. *"At this point you're probably thinking, okay, so what do I fix first?"*
-- **Embedded truths:** Prefer *"when this shifts" / "once you understand this" / "the reason this matters is"* over hedge words. But don't fake certainty — say *"in my experience"* when that's the honest frame.
+- **Embedded truths:** Prefer *"when this shifts" / "once you understand this" / "the reason this matters is"* over hedge words. But don't fake certainty, say *"in my experience"* when that's the honest frame.
 - **Term branding:** If a recurring idea benefits from a short label (*gear trap, trust leak, consult gap*), invent one. Only when it adds clarity.
 
-### Step 7 — Voice, proof, and the trust anchor
+### Step 7: Voice, proof, and the trust anchor
 
-This is non-negotiable — load `references/voice-and-proof.md` before finalizing.
+This is non-negotiable, load `references/voice-and-proof.md` before finalizing.
 
 Short version:
 - **Voice = calm authority, practical, non-hype, peer-level.** Not guru, not loud, not fake-urgent.
@@ -131,7 +131,7 @@ Short version:
 - **One main proof type per script** unless the user explicitly requests otherwise.
 - **Never use:** *guaranteed, crush it, dominate, game changer, secret sauce, six figures, passive income, only X spots left,* or any fake scarcity / unverified outcome.
 
-### Step 8 — CTA: continuation, not interruption
+### Step 8: CTA: continuation, not interruption
 
 The CTA should read like the obvious next step *for someone who wants help applying the lesson the script just taught.*
 
@@ -143,7 +143,7 @@ Good patterns:
 
 Never: fake scarcity, desperation, over-explaining the offer, "this will change your life."
 
-### Step 9 — Quality pass before delivering
+### Step 9: Quality pass before delivering
 
 Run this mentally before the script ships. If any check fails, fix it.
 
@@ -173,14 +173,14 @@ Use this exact structure for every script. No deviation.
 ```
 **Title:** [compelling working title]
 **Target Belief:** [old belief → new belief, in one line]
-**Hook:** [1–3 sentences]
+**Hook:** [1 to 3 sentences]
 **Meat:**
 - [beat 1]
 - [beat 2]
 - [beat 3]
 - [beat 4]
 - [optional beat 5]
-**CTA:** [1–2 calm sentences]
+**CTA:** [1 to 2 calm sentences]
 ```
 
 When delivering multiple scripts, separate them with a horizontal rule (`---`) and number them.
@@ -190,16 +190,16 @@ When delivering multiple scripts, separate them with a horizontal rule (`---`) a
 | Variable | Default |
 |---|---|
 | Platforms | Instagram Reels + YouTube Shorts |
-| Length | 120–180 words spoken (~35–60 seconds) |
+| Length | 120 to 180 words spoken (~35 to 60 seconds) |
 | Tone | Calm authority, practical, non-hype |
 | Output style | Bullet-point beats inside the format above |
-| Contrarian level | Medium — sharp where useful, not for its own sake |
+| Contrarian level | Medium, sharp where useful, not for its own sake |
 | Proof per script | Exactly one trust anchor, one main proof type |
 | CTA style | Soft invitation |
 
 Override any of these only if the user asks.
 
-## Anti-patterns — never ship these
+## Anti-patterns: never ship these
 
 **Hook:** vague bait, delayed context, too many ideas, no audience callout, mystery-over-relevance.
 **Body:** tangents, long backstory, no reframe, no contrast, no rehook in longer scripts, no takeaway.
@@ -222,4 +222,4 @@ Before you draft, run through these:
 - If past ~35 seconds: where does the rehook go?
 - What CTA would feel native to this lesson?
 
-Then write. Don't show this thinking — just produce the script.
+Then write. Don't show this thinking, just produce the script.
