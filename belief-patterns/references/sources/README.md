@@ -7,11 +7,16 @@ Read this whole file before ingesting anything.
 
 Every ingest writes to two places on purpose:
 
-1. **Notion Knowledge Base** (`collection://d5d2ac86-fd33-44b0-9a91-1b24611fd0d2`, in the WDJM
-   Knowledge Resources hub). One page per lesson, Source = the teacher (`Eli Wilde` today),
-   Status = `New`, Source Link back to the file or page it came from. This is the knowledge
-   Joe retrieves from any thread or any AI. Joe's global rule: distilled sources are retrieved
-   from Notion, never re-read.
+1. **Notion.** Since 2026-09-04 a third-party teacher's lessons file into the 📖 Learning
+   Library (`collection://1e250f21-7a1e-43ce-8d9d-6e520f883940`) with a ledger row in
+   📚 Sources (`collection://1e4c73a8-dddb-45a3-9835-87e3270f652d`), through the `learn-this`
+   skill, which owns the intake steps (raw file, do-it-once, distill, file). Rows filed before
+   that date live in the WDJM 📚 Knowledge Base
+   (`collection://d5d2ac86-fd33-44b0-9a91-1b24611fd0d2`, Source = `Eli Wilde`) and stay there;
+   the Library links to them. Joe's own calls and courses stay in the Knowledge Base
+   (`process-transcript`). This is the knowledge Joe retrieves from any thread or any AI
+   (`ask-the-library`). Joe's global rule: distilled sources are retrieved from Notion, never
+   re-read.
 2. **The skills** (`sources/<teacher>-<slug>.md` here, then `patterns.md` in this skill for
    anything structural, and `spoken-script/references/delivery.md` or `lessons.md` for anything
    about how a line is said). This is the operational rule set applied without Notion in
@@ -85,3 +90,4 @@ the merged file; the source file is history.
 | The Story Selling Structure | Google Drive `ELI WILDE/` as a shortcut (`1NjZtKWXXhfJCPvCGXRcqsm4J-q9_RJE_`) | | blocked | Same shortcut problem. The Story Selling System is named in Joe's notes as one of the two style pillars, so this one is worth unblocking. |
 | Eli Wilde, NLP For Sales (8-week video course) | Google Drive folder shared by `thehustlersvaultx@gmail.com` (`1vq4S9RU4YZYMSsNL__fRwNtsrPOK_msC`) | | not ingested | Not Joe's purchase, provenance unclear, and video would need transcription. Joe's decision. |
 | Eli Wilde speaker drills session (question control, bridge questions, tie-downs, attention generators, reframes, two sales, frames, identity sequence) | YouTube `dDCdGJ_TIZ0`, https://www.youtube.com/watch?v=dDCdGJ_TIZ0 (transcript pasted by Joe 2026-09-03) | 2026-09-03 | done | First source with verbatim Eli Wilde quotes, timestamped. Tie-downs and bridge questions added 2026-09-03 after Joe named them. `eli-wilde-speaker-drills-2025.md` |
+| Eli Wilde linguistic frames session (pre-frame, POV, the 14 reframe patterns, linking phrases, best interest frame, compliance, aligned adversary) at a Chase Hughes event | YouTube `CHFcyWPjvnM`, https://www.youtube.com/watch?v=CHFcyWPjvnM (transcript pasted by Joe 2026-09-03); raw at Dropbox `Learning OS/sources/eli-wilde/raw/` | 2026-09-04 | done | First source filed in the 📖 Learning Library (Sources row `3d22e7ac-085c-81bf-a1b2-cdf39f9ba001`), 28 rows, 1 refused ledger. `eli-wilde-linguistic-frames-2025.md` |
