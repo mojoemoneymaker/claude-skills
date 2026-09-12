@@ -17,6 +17,7 @@ The system is Eli Wilde's: the Trust Trinity, the Twelve Influence Frames, the S
 | The context intake, the rules per domain, what defeats each technique, buyer and partner types | `references/context-and-limits.md` |
 | The single paste-in block for any other AI (built from these files by `scripts/build_master.py`, never edited by hand) | `references/master-prompt.md` |
 | The short loader for tools with an instruction cap | `references/gpt-loader.md` |
+| The Perplexity Space instructions (operating core under the 8,000 character cap) and the knowledge file build in .txt, .pdf and .docx, since .md uploads have failed there | `references/perplexity-instructions.md`, `scripts/build_perplexity.py` |
 | What was read to build this, what was not, the gap, and what was taken from the Influence Architect prompt | `references/sources.md` |
 
 Read `toolkit.md` before writing any line. Read `context-and-limits.md` before choosing which tools are allowed.
