@@ -1,7 +1,7 @@
 # The 12 Product Strategies
 
 Each strategy is a goal, a stack of plays that serve it, the metrics that prove it moved, and the
-questions that reveal *why* it isn't moving. Plays appear in multiple stacks — that's intended.
+questions that reveal *why* it isn't moving. Plays appear in multiple stacks, that's intended.
 The same play does different work depending on the goal it's serving.
 
 Use this file two ways: **goal in** ("improve retention") → take the stack; or **metric in**

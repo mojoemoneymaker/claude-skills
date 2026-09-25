@@ -1,7 +1,7 @@
 # The 33 Plays
 
 The full card for every play in Bartek Marzec's Product Design Playbook. Quote the constraints
-verbatim rather than paraphrasing them — the specificity is the point. Each card carries a
+verbatim rather than paraphrasing them, the specificity is the point. Each card carries a
 **Pairs with** line; those links are the combination engine, not decoration. A play used alone is
 a tactic, a play used with its pairs is a strategy.
 
@@ -29,7 +29,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Commitment
 *Let users declare their intent, then design around it.*
 
-**What it is:** A micro-pledge from the user — a goal, a schedule, a selection. You're not forcing the behaviour; you're letting them opt in, then turning that signal into structure.
+**What it is:** A micro-pledge from the user, a goal, a schedule, a selection. You're not forcing the behaviour; you're letting them opt in, then turning that signal into structure.
 
 **Why it works:** Once we state our intentions, we feel pressure to follow through. Public, visible, or even lightweight commitments increase follow-through. Commitment creates accountability, which triggers consistency and retention.
 
@@ -79,7 +79,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Don't:** dump users on a generic page after promising something specific · forget to test for logged-out users, edge cases, or onboarding detours.
 
-**Founder tip:** Deep links are portals to value. They should never feel like shortcuts to marketing — they should feel like precision tools that respect your user's time and attention.
+**Founder tip:** Deep links are portals to value. They should never feel like shortcuts to marketing, they should feel like precision tools that respect your user's time and attention.
 
 **Pairs with:** Time to Value · Commitment · Gamified Progress · Contact Bridge · Discovery · Limited Offer · Referral
 
@@ -99,7 +99,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Don't:** overwhelm with too many suggestions or irrelevant noise · leave users in silence when discovery could guide.
 
-**Founder tip:** Discovery is a trust-building loop. The more helpful your suggestions are early on, the more users believe your product "gets them" — making them likely to stay and explore deeper.
+**Founder tip:** Discovery is a trust-building loop. The more helpful your suggestions are early on, the more users believe your product "gets them", making them likely to stay and explore deeper.
 
 **Pairs with:** Empty States · Contact Bridge · Spark Curiosity · Time to Value · Referral · The Paywall
 
@@ -109,17 +109,17 @@ a tactic, a play used with its pairs is a strategy.
 ## Effort Moat
 *Turn invested effort into loyalty by acknowledging it.*
 
-**What it is:** Resurface the user's investment — time, energy, or emotion — to make their effort feel valuable and hard to abandon.
+**What it is:** Resurface the user's investment, time, energy, or emotion, to make their effort feel valuable and hard to abandon.
 
 **Why it works:** People value what they build. When a user uploads, completes tasks, or configures their space, they create psychological ownership that increases attachment.
 
 **Use when:** after setup flows, saved preferences, or input-heavy tasks · during inactivity, to reignite personal momentum · after they've built a personalised experience (saved places, uploads, notes, history).
 
-**Do:** show cumulative stats and progress ("You've saved 27 favourites") · reflect input back visually — dashboards, saved states, timelines · elevate earned status (streaks, social badges, ranks).
+**Do:** show cumulative stats and progress ("You've saved 27 favourites") · reflect input back visually, dashboards, saved states, timelines · elevate earned status (streaks, social badges, ranks).
 
-**Don't:** let effort go unacknowledged — invisibility leads to disconnection · overcomplicate contribution; friction delays emotional buy-in.
+**Don't:** let effort go unacknowledged, invisibility leads to disconnection · overcomplicate contribution; friction delays emotional buy-in.
 
-**Founder tip:** If users can build up a personal database with minimal effort — like saved spots in Google Maps — they develop subconscious switching resistance. That's your moat. Take it further: if their contributions can lead to social recognition or status, you've built identity alignment. That's loyalty at the highest tier.
+**Founder tip:** If users can build up a personal database with minimal effort, like saved spots in Google Maps, they develop subconscious switching resistance. That's your moat. Take it further: if their contributions can lead to social recognition or status, you've built identity alignment. That's loyalty at the highest tier.
 
 **Pairs with:** Success Moments · Gamified Progress · Value Replay · Investment · Time to Value
 
@@ -131,13 +131,13 @@ a tactic, a play used with its pairs is a strategy.
 
 **What it is:** Empty states appear when there's no content to show yet. Instead of leaving users stranded, they're your chance to guide, inspire, and onboard.
 
-**Why it works:** A blank screen is a dead end. A clear, helpful empty state nudges action, sets expectations, and turns nothing into momentum. It's your first impression — make comprehension easy.
+**Why it works:** A blank screen is a dead end. A clear, helpful empty state nudges action, sets expectations, and turns nothing into momentum. It's your first impression, make comprehension easy.
 
 **Use when:** a page would otherwise be blank (after signup, first use, or clearing content) · filters or search open, or return no results · onboarding flows where input is expected.
 
-**Do:** add a short headline and helpful microcopy that explains what to do next · show what "good" looks like — illustrations, examples, or demos · align tone with your brand voice: friendly, clear, never robotic.
+**Do:** add a short headline and helpful microcopy that explains what to do next · show what "good" looks like, illustrations, examples, or demos · align tone with your brand voice: friendly, clear, never robotic.
 
-**Don't:** leave the screen empty or cryptic ("No items found." is not enough) · assume users know what to do without instruction · make empty states static — they should be a prompt, not a placeholder.
+**Don't:** leave the screen empty or cryptic ("No items found." is not enough) · assume users know what to do without instruction · make empty states static, they should be a prompt, not a placeholder.
 
 **Founder tip:** Every empty state is a chance to teach, inspire, and build trust. The first click forward starts here. A great empty state can trigger activation.
 
@@ -157,7 +157,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** add intentional friction to risky actions (confirmation, double-tap, hold-to-confirm) · offer soft-deletes, undo snackbars, or grace windows · provide contextual language that reinforces the risk ("This action can't be undone") · use progress saving or auto-draft saving.
 
-**Don't:** let destructive actions fire with a single careless tap · hide risk behind familiar patterns · assume users understand the stakes — always clarify impact.
+**Don't:** let destructive actions fire with a single careless tap · hide risk behind familiar patterns · assume users understand the stakes, always clarify impact.
 
 **Founder tip:** Fail-safes are invisible trust signals. When users know they're safe, they act with confidence. They explore more, stick longer, and contact support less. Reduces support tickets and churn caused by accidental actions.
 
@@ -175,9 +175,9 @@ a tactic, a play used with its pairs is a strategy.
 
 **Use when:** multi-step processes, habit-building features, onboarding, daily tasks · you want to increase stickiness or repeat use · you need to break long tasks into motivating, bite-sized steps · the product has daily/weekly engagement potential.
 
-**Do:** make the first few steps fast and achievable — early momentum matters most · use missions or quests to frame progress with purpose · add micro-rewards (sounds, animations, feedback) that feel earned.
+**Do:** make the first few steps fast and achievable, early momentum matters most · use missions or quests to frame progress with purpose · add micro-rewards (sounds, animations, feedback) that feel earned.
 
-**Don't:** force gamification into flows that don't benefit from it · force users to play a "game" they didn't opt into · use meaningless badges or empty point systems — the reward must feel real.
+**Don't:** force gamification into flows that don't benefit from it · force users to play a "game" they didn't opt into · use meaningless badges or empty point systems, the reward must feel real.
 
 **Founder tip:** Don't treat gamification as an add-on. It's a behavioural engine. Use it to guide behaviour and build rituals. When building it, consider the B=MAP framework (Behaviour = Motivation × Ability × Prompt).
 
@@ -189,15 +189,15 @@ a tactic, a play used with its pairs is a strategy.
 ## Intent Mirroring
 *Reflect user behaviour in real time to build trust and drive action.*
 
-**What it is:** A responsive UX pattern that reacts to subtle user behaviours — pauses, backtracking, repeated filters — by surfacing timely nudges, guidance, or content aligned to their likely intent.
+**What it is:** A responsive UX pattern that reacts to subtle user behaviours, pauses, backtracking, repeated filters, by surfacing timely nudges, guidance, or content aligned to their likely intent.
 
 **Why it works:** We feel seen when an app responds to our actions. Mirroring transforms passive behaviour into signals of intent, builds psychological safety, and reduces effort, while positioning the app as helpful rather than pushy.
 
 **Use when:** users are browsing, hesitating, or stuck in loops · during onboarding, pricing exploration, or filter-heavy search · in moments of hesitation (hovering, scroll-backs, long pauses).
 
-**Do:** surface relevant help ("Still comparing plans?") when patterns are clear · use micro-signals to adapt the UI — offer a shortcut, template, or filtered result · match the user's current mode: explore, decide, or compare.
+**Do:** surface relevant help ("Still comparing plans?") when patterns are clear · use micro-signals to adapt the UI, offer a shortcut, template, or filtered result · match the user's current mode: explore, decide, or compare.
 
-**Don't:** jump in too early — misreading feels pushy or robotic · offer generic nudges that break the illusion of personalisation.
+**Don't:** jump in too early, misreading feels pushy or robotic · offer generic nudges that break the illusion of personalisation.
 
 **Founder tip:** Intent mirroring is co-navigation. You're anticipating. When done right, it's invisible UX that feels magical. The user thinks, "That's exactly what I needed." That's retention.
 
@@ -209,7 +209,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Intentional Friction
 *Introduction of purposeful slowdown to drive clarity, confidence, or commitment.*
 
-**What it is:** Strategically placed friction in a flow — not to block, but to pause and think. It's effort by design. The goal isn't to move faster, it's to move through hoops with purpose.
+**What it is:** Strategically placed friction in a flow, not to block, but to pause and think. It's effort by design. The goal isn't to move faster, it's to move through hoops with purpose.
 
 **Why it works:** It helps users make better decisions, prevents mistakes, and improves input quality.
 
@@ -217,9 +217,9 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** time the friction by first equipping the user with context, framed as a benefit · reveal the optimised experience once the user converts · create space to educate, protect, or deepen commitment.
 
-**Don't:** add unnecessary friction that doesn't help user progress · assume all friction is good, or all bad — context matters · add friction without purpose or feedback.
+**Don't:** add unnecessary friction that doesn't help user progress · assume all friction is good, or all bad, context matters · add friction without purpose or feedback.
 
-**Founder tip:** Not all friction is bad. Incorporating friction isn't about making tasks harder — it's about making experiences thoughtful and guided, to reveal the payoff a user will value.
+**Founder tip:** Not all friction is bad. Incorporating friction isn't about making tasks harder, it's about making experiences thoughtful and guided, to reveal the payoff a user will value.
 
 **Pairs with:** Time to Value · Setup Defaults · Progressive Disclosure · Variable Reward · Fail Safe · Perceived Effort Delay
 
@@ -229,15 +229,15 @@ a tactic, a play used with its pairs is a strategy.
 ## Investment
 *User input that deepens attachment and improves the product.*
 
-**What it is:** A pattern that asks users to input time, effort, or decisions — choosing preferences, saving data, generating content. These acts of participation increase ownership. The more users invest, the more valuable the product feels.
+**What it is:** A pattern that asks users to input time, effort, or decisions, choosing preferences, saving data, generating content. These acts of participation increase ownership. The more users invest, the more valuable the product feels.
 
-**Why it works:** We value what we shape. Every small contribution — text, taps, tweaks — becomes a sunk cost that deepens emotional and cognitive commitment. This creates product gravity. It also sharpens the product's relevance, building stronger feedback loops.
+**Why it works:** We value what we shape. Every small contribution, text, taps, tweaks, becomes a sunk cost that deepens emotional and cognitive commitment. This creates product gravity. It also sharpens the product's relevance, building stronger feedback loops.
 
 **Use when:** onboarding, when users are forming habits and mental models · storing user data improves future recommendations or value · you want to build a sense of progress before surfacing a paywall or locked feature.
 
 **Do:** give users a reason to come back by connecting input to a future reward · use stored actions to make the next visit easier, faster, or more delightful · highlight growing investment ("You've logged 9 entries", "Next unlock in 2 uploads").
 
-**Don't:** ask for input without making its future use obvious · let data disappear — visible investment creates attachment · interrupt the feedback loop by resetting progress or deleting effort.
+**Don't:** ask for input without making its future use obvious · let data disappear, visible investment creates attachment · interrupt the feedback loop by resetting progress or deleting effort.
 
 **Founder tip:** Users are more loyal to what they've shaped. Every upload, setting, or saved item makes your product feel like *their* product. Leverage input not just for personalisation, but to power future triggers, stronger retention, and emotional momentum.
 
@@ -255,11 +255,11 @@ a tactic, a play used with its pairs is a strategy.
 
 **Use when:** buttons, onboarding steps, tooltips, error states, and modals · empty states and feature reveals · anywhere you need to prompt action, calm hesitation, or frame next steps.
 
-**Do:** frame tasks as outcome-driven actions ("Bake your first pizza, starting with dough") · match voice to mindset — urgent where there's hesitation, warm where there's effort · foreshadow what comes next, to give a sense of control and purpose.
+**Do:** frame tasks as outcome-driven actions ("Bake your first pizza, starting with dough") · match voice to mindset, urgent where there's hesitation, warm where there's effort · foreshadow what comes next, to give a sense of control and purpose.
 
 **Don't:** use jargon or overly complicated phrasing · describe the system ("This feature allows you to…") · use generic CTAs like "Submit" or "Continue" where meaning could be added.
 
-**Founder tip:** Every word in your UI is a tiny nudge. Default to the user's *why*, not your *what*. A good test: read it aloud after "Now you can…" — if it doesn't make sense, rewrite it.
+**Founder tip:** Every word in your UI is a tiny nudge. Default to the user's *why*, not your *what*. A good test: read it aloud after "Now you can…", if it doesn't make sense, rewrite it.
 
 **Pairs with:** Micro Interactions · Empty States · Loading Feedback · Permission Serve · Fail Safe
 
@@ -269,7 +269,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Limited Offer
 *Create urgency at moments of churn or hesitation.*
 
-**What it is:** A time-sensitive incentive shown at a critical moment — skipping a paywall, abandoning onboarding, deleting the app — designed to re-engage with a last-chance opportunity.
+**What it is:** A time-sensitive incentive shown at a critical moment, skipping a paywall, abandoning onboarding, deleting the app, designed to re-engage with a last-chance opportunity.
 
 **Why it works:** Scarcity and urgency are timeless motivators. A well-timed offer taps into loss aversion: users feel like they're missing out by leaving now, so they reconsider.
 
@@ -277,7 +277,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** make it feel timely, personal, and just-for-you · use expiry visuals (countdown, badge, banner) to anchor urgency · link the offer to past behaviour ("Since you tried…").
 
-**Don't:** repeat the same offer too often — it loses power · use fake scarcity or misleading deadlines.
+**Don't:** repeat the same offer too often, it loses power · use fake scarcity or misleading deadlines.
 
 **Founder tip:** A limited-time offer isn't just about conversion, it's also data. A well-timed offer reveals what your users actually value. Use the data. Let performance shape the next price test.
 
@@ -289,17 +289,17 @@ a tactic, a play used with its pairs is a strategy.
 ## Loading Feedback
 *Reducing perceived wait time through smart feedback.*
 
-**What it is:** Custom loading states that replace dead spinners with character-rich moments — animations, microcopy, or context-aware visuals that make waiting feel intentional.
+**What it is:** Custom loading states that replace dead spinners with character-rich moments, animations, microcopy, or context-aware visuals that make waiting feel intentional.
 
 **Why it works:** Loading feedback distracts from delay, reinforces your brand voice, and creates a moment of emotional connection. Users will remember how it made them feel.
 
-**Use when:** any operation takes longer than **~100ms** — page loads, file uploads, searches · fetching, generating, or uploading content · loops where users frequently return (dashboard refreshes, edits).
+**Use when:** any operation takes longer than **~100ms**, page loads, file uploads, searches · fetching, generating, or uploading content · loops where users frequently return (dashboard refreshes, edits).
 
 **Do:** design the loading state as a branded, ownable surface · match the feedback to the task (e.g. photos stacking when building an album) · use personality-driven microcopy or visuals to create a delightful moment.
 
 **Don't:** leave screens blank or frozen · use vague messages like "Please wait…" without context · show generic, poorly matched spinners or loading bars.
 
-**Founder tip:** Every product has friction. The best ones make it feel worthwhile. Don't just explain the wait — use it to express your brand's tone of voice and personality.
+**Founder tip:** Every product has friction. The best ones make it feel worthwhile. Don't just explain the wait, use it to express your brand's tone of voice and personality.
 
 **Pairs with:** Micro Interactions · Success Moments · Perceived Effort Delay · JTBD Copywriting
 
@@ -309,15 +309,15 @@ a tactic, a play used with its pairs is a strategy.
 ## Micro Interactions
 *Subtle feedback loops that make digital products feel tactile and alive.*
 
-**What it is:** Small, functional animations triggered by user actions — taps, swipes, hovers, holds, or transitions — that reinforce the cause-and-effect loop of interaction.
+**What it is:** Small, functional animations triggered by user actions, taps, swipes, hovers, holds, or transitions, that reinforce the cause-and-effect loop of interaction.
 
 **Why it works:** They confirm intent, reduce uncertainty, and inject life into the interface. Done right, they make your product feel responsive, tactile, and thoughtfully built.
 
-**Use when:** user actions — taps, clicks, drag & drop · transitions between states or screens · success, error, or confirmation moments · as ambient feedback during navigation or loading.
+**Use when:** user actions, taps, clicks, drag & drop · transitions between states or screens · success, error, or confirmation moments · as ambient feedback during navigation or loading.
 
 **Do:** use micro-interactions to confirm the app is responding · add subtle animation to reinforce feedback loops and user flow · use haptics sparingly, to enhance key moments · let users toggle haptics in settings, for control and accessibility.
 
-**Don't:** over-animate basic interactions — too much movement becomes noise · use animations that delay the experience or feel gimmicky · use complex sequences that slow down flow.
+**Don't:** over-animate basic interactions, too much movement becomes noise · use animations that delay the experience or feel gimmicky · use complex sequences that slow down flow.
 
 **Founder tip:** Small polish often feels premium to users, but only when used intentionally. If your product doesn't feel alive and responsive, it feels broken.
 
@@ -331,13 +331,13 @@ a tactic, a play used with its pairs is a strategy.
 
 **What it is:** Creating the perception of progress from the start by front-loading actions, pre-filling data, or using visual cues that suggest something is already underway.
 
-**Why it works:** We're wired to finish what we've started — even if we didn't start it ourselves. Seeing progress, however small, inspires commitment and reduces hesitation.
+**Why it works:** We're wired to finish what we've started, even if we didn't start it ourselves. Seeing progress, however small, inspires commitment and reduces hesitation.
 
 **Use when:** onboarding flows with checklist progress or auto-completed first steps · signup flows with pre-filled name, avatar, or preferences · generated "drafts" for users to edit rather than starting from zero · education products that begin with a quiz you're likely to ace, boosting confidence.
 
-**Do:** pre-fill content using smart defaults, past behaviour, or common selections · visually show progress — checkmarks, completed bars, "1 of 3 steps done" · tie momentum to actual value, not just vanity steps.
+**Do:** pre-fill content using smart defaults, past behaviour, or common selections · visually show progress, checkmarks, completed bars, "1 of 3 steps done" · tie momentum to actual value, not just vanity steps.
 
-**Don't:** fake progress just to boost numbers — users will feel manipulated · overdo it; too many pre-filled actions feel pushy or noisy · count meaningless micro-steps just to show motion.
+**Don't:** fake progress just to boost numbers, users will feel manipulated · overdo it; too many pre-filled actions feel pushy or noisy · count meaningless micro-steps just to show motion.
 
 **Founder tip:** Momentum is emotional. It's created through thoughtful cues that shift users from hesitation to motion. Your job is to help them believe they're already moving.
 
@@ -357,7 +357,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** use platform conventions (swipes, tabs, gestures) where they make sense · prioritise speed-to-comprehension over novelty · borrow from familiar interfaces where expectations are already shaped.
 
-**Don't:** reinvent patterns just to be different · introduce friction where intuition should carry the user · mix too many models — pick one mental map and commit.
+**Don't:** reinvent patterns just to be different · introduce friction where intuition should carry the user · mix too many models, pick one mental map and commit.
 
 **Founder tip:** You don't need to train your user if you meet them where they already are. Good alignment is invisible design. Start with the familiar, then gradually introduce what's new once trust is earned.
 
@@ -371,13 +371,13 @@ a tactic, a play used with its pairs is a strategy.
 
 **What it is:** A deliberate pause or processing moment that signals care, personalisation, or depth. When outcomes are delivered too fast, we may question their authenticity or value.
 
-**Why it works:** Intentional delay reframes the result as considered, tailored, or important. Our brains link time with effort — when things take longer, we think more care has gone into them.
+**Why it works:** Intentional delay reframes the result as considered, tailored, or important. Our brains link time with effort, when things take longer, we think more care has gone into them.
 
 **Use when:** delivering a result, recommendation, or score · simulating intelligent processing ("thinking", "analysing", "personalising") · your app offers insight, feedback, or predictions and you want them to feel premium · users expect emotional weight or significance (mental health, finance) · too-fast responses risk feeling generic or automated and reducing trust.
 
-**Do:** use progress animations or copy like "Analysing your input", "Curating your best match" · frame the delay with clear intent — it should feel like something worthwhile is happening · keep the wait **just long enough to feel meaningful** for the results your app retrieves. A **1–3 second** pause is usually the range worth testing.
+**Do:** use progress animations or copy like "Analysing your input", "Curating your best match" · frame the delay with clear intent, it should feel like something worthwhile is happening · keep the wait **just long enough to feel meaningful** for the results your app retrieves. A **1 to 3 second** pause is usually the range worth testing.
 
-**Don't:** make users wait unnecessarily — it's about the illusion of depth, not friction · use generic spinners with no narrative; always frame the pause with purpose · overuse the play — constant delays frustrate and erode trust.
+**Don't:** make users wait unnecessarily, it's about the illusion of depth, not friction · use generic spinners with no narrative; always frame the pause with purpose · overuse the play, constant delays frustrate and erode trust.
 
 **Founder tip:** Speed feels cheap when the user expects effort. A deliberate pause suggests care and personalisation. It's not lag. It's luxury.
 
@@ -395,11 +395,11 @@ a tactic, a play used with its pairs is a strategy.
 
 **Use when:** before an action, when access is required to proceed · after the action, if permission enhances the experience but isn't required.
 
-**Do:** time your ask to the user's intent — always tie it to functional relevance · pre-frame the benefit with a short in-app message or preview · make the prompt feel like progress, not a wall.
+**Do:** time your ask to the user's intent, always tie it to functional relevance · pre-frame the benefit with a short in-app message or preview · make the prompt feel like progress, not a wall.
 
 **Don't:** trigger multiple permission requests back-to-back · ask for access too early, before trust or context is established · request permissions unrelated to immediate user intent.
 
-**Founder tip:** You only get one shot at serving the native opt-in — time your ask purposefully. Pre-frame it, time it with care, and ensure it feels like part of the journey, not an interruption.
+**Founder tip:** You only get one shot at serving the native opt-in, time your ask purposefully. Pre-frame it, time it with care, and ensure it feels like part of the journey, not an interruption.
 
 **Pairs with:** Success Moments · Empty States · Contact Bridge · Setup Defaults · JTBD Copywriting
 
@@ -409,7 +409,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Personalisation
 *Designing relevance into the product experience.*
 
-**What it is:** Tailoring the product to reflect the user's identity, behaviour, goals, or preferences — either explicitly (through inputs) or implicitly (through usage patterns). It adapts the interface, content, or interactions to feel tailored to them.
+**What it is:** Tailoring the product to reflect the user's identity, behaviour, goals, or preferences, either explicitly (through inputs) or implicitly (through usage patterns). It adapts the interface, content, or interactions to feel tailored to them.
 
 **Why it works:** We're wired to notice relevance. When a product reflects our intent, it reduces friction. Personalisation significantly enhances relevance, attachment, and perceived value.
 
@@ -419,7 +419,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Don't:** over-personalise in intrusive ways (surfacing sensitive info) · break consistency or usability in the name of a "personal touch".
 
-**Founder tip:** Personalisation isn't just about showing users who they are — it's about helping them become who they want to be. Use it to reduce friction, boost clarity, and make your product feel like it just fits.
+**Founder tip:** Personalisation isn't just about showing users who they are, it's about helping them become who they want to be. Use it to reduce friction, boost clarity, and make your product feel like it just fits.
 
 **Pairs with:** Setup Defaults · Commitment · Discovery · Pattern Alignment · Intent Mirroring
 
@@ -437,7 +437,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** let experienced users skip ahead while giving beginners guardrails · stage complexity in parallel with user confidence or time-on-task · decide deliberately which features the initial disclosure level should contain.
 
-**Don't:** force users through multi-step flows when one step would suffice · make users hunt or guess how to access deeper functionality · over-engineer paths — sequencing should feel invisible.
+**Don't:** force users through multi-step flows when one step would suffice · make users hunt or guess how to access deeper functionality · over-engineer paths, sequencing should feel invisible.
 
 **Founder tip:** Your product may be deep, but it shouldn't feel overwhelming. Pace what you reveal, layer context, and never show more than the user needs to act. Let users grow into your product, not bounce from it.
 
@@ -455,11 +455,11 @@ a tactic, a play used with its pairs is a strategy.
 
 **Use when:** after users reach value (hit a milestone, share a file, complete a challenge) · in collaborative tools where inviting *is* value (teams, boards, docs) · when user output benefits from network effects (playlists, workspaces).
 
-**Do:** build it seamlessly into the flow — "invite your team" should feel native · offer relevant, clear incentives: extra storage, feature unlocks, discounts · shorten the viral cycle by prompting invites early, right after success moments.
+**Do:** build it seamlessly into the flow, "invite your team" should feel native · offer relevant, clear incentives: extra storage, feature unlocks, discounts · shorten the viral cycle by prompting invites early, right after success moments.
 
-**Don't:** stall until users are inactive — optimised cycle time matters · ask before the user gets value; it'll feel like a chore · hide referral behind menus or extra steps.
+**Don't:** stall until users are inactive, optimised cycle time matters · ask before the user gets value; it'll feel like a chore · hide referral behind menus or extra steps.
 
-**Founder tip:** Referral is bottom-up marketing — it costs less, builds trust, and leverages users' networks. If users love it and feel proud of the result, they'll naturally share. Incentives help, but the experience is the pitch. Bake in referral at peak emotional moments.
+**Founder tip:** Referral is bottom-up marketing, it costs less, builds trust, and leverages users' networks. If users love it and feel proud of the result, they'll naturally share. Incentives help, but the experience is the pitch. Bake in referral at peak emotional moments.
 
 **Pairs with:** Intentional Friction · Success Moments · Variable Reward · Deep-link · Limited Offer · Discovery · Shareability · Contact Bridge
 
@@ -469,7 +469,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Sandbox Experience
 *Product access without account creation.*
 
-**What it is:** A frictionless, interactive preview of your product — no login walls, no setup. Use pre-filled data, temporary access, or limited functionality to help users *feel* the product.
+**What it is:** A frictionless, interactive preview of your product, no login walls, no setup. Use pre-filled data, temporary access, or limited functionality to help users *feel* the product.
 
 **Why it works:** It removes the psychological and effort-based barriers to entry. Users get an instant peek at the benefits. Once they see the promise, the path to conversion feels earned.
 
@@ -477,7 +477,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** design around the "aha moment" to show what makes your product great · pre-fill content, generate mock data, or simulate workflows to reduce friction · prompt signup or conversion when users engage with gated actions.
 
-**Don't:** drop users into a blank or confusing experience — guide with intentional prompts · under-deliver; fake sandboxes feel like bait-and-switch · delay CTAs too long — surface signup at the peak moment of curiosity or felt value.
+**Don't:** drop users into a blank or confusing experience, guide with intentional prompts · under-deliver; fake sandboxes feel like bait-and-switch · delay CTAs too long, surface signup at the peak moment of curiosity or felt value.
 
 **Founder tip:** Letting users explore before committing lowers perceived risk and builds curiosity. A sandbox collapses time-to-value and raises confidence.
 
@@ -489,13 +489,13 @@ a tactic, a play used with its pairs is a strategy.
 ## Setup Defaults
 *Instant, semi-automated jumpstarts that reduce friction from the start.*
 
-**What it is:** A proactive design shortcut — default content, templates, or flows that give users a head start. You're not just teaching, you're handing them something ready to use.
+**What it is:** A proactive design shortcut, default content, templates, or flows that give users a head start. You're not just teaching, you're handing them something ready to use.
 
 **Why it works:** It gives users an instant starting point through pre-filled content, smart defaults, templates, or guided flows, so they can use the product guided by example.
 
 **Use when:** setup involves content creation, configuration, or custom workflows · tools with feeds, editors, folders, or structured input · users benefit from learning-by-doing.
 
-**Do:** use templates, dummy data, or semi-personalised example content · guide through action — offer pre-filled fields, starter flows, or suggested prompts · let users edit or skip defaults easily; control matters.
+**Do:** use templates, dummy data, or semi-personalised example content · guide through action, offer pre-filled fields, starter flows, or suggested prompts · let users edit or skip defaults easily; control matters.
 
 **Don't:** drop users into empty builders or dashboards without guidance · overload the screen with too many templates or setup choices · lock users into rigid defaults they can't change.
 
@@ -509,15 +509,15 @@ a tactic, a play used with its pairs is a strategy.
 ## Shareability
 *Turn moments of pride into organic growth.*
 
-**What it is:** Users voluntarily share achievements or outputs that elevate their perceived status — social, intellectual, professional, or aesthetic. Earned bragging rights.
+**What it is:** Users voluntarily share achievements or outputs that elevate their perceived status, social, intellectual, professional, or aesthetic. Earned bragging rights.
 
 **Why it works:** We share how something made us feel. Tap into identity-driven pride: "I did this." When sharing is a flex, a story, or a badge of honour, users amplify your product without you asking.
 
 **Use when:** users reach an achievement that would increase their status · your audience overlaps with identity-driven communities (runners, creators) · the output (playlist, image, chart, profile) reflects user effort, taste, talent, or skill.
 
-**Do:** design stunning, lightly branded share visuals that feel native on social · let users add a caption or quote — make it feel theirs, not yours · anchor the share moment in emotion: pride, progress, surprise.
+**Do:** design stunning, lightly branded share visuals that feel native on social · let users add a caption or quote, make it feel theirs, not yours · anchor the share moment in emotion: pride, progress, surprise.
 
-**Don't:** push share prompts before value is achieved · make the share feel too self-promotional or salesy · assume vanity is shallow — it's often tied to meaning.
+**Don't:** push share prompts before value is achieved · make the share feel too self-promotional or salesy · assume vanity is shallow, it's often tied to meaning.
 
 **Founder tip:** This play works best when users *feel* something. Emotion is the real trigger. Build toward a climax users want to show off. Then get out of the way and let them flex.
 
@@ -529,7 +529,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Small Quirk
 *Signature moments that turn utility into identity.*
 
-**What it is:** A distinctive interaction, animation, UI flourish, or pattern that adds personality to repeated product moments. Think of it as your product's accent — subtle but memorable.
+**What it is:** A distinctive interaction, animation, UI flourish, or pattern that adds personality to repeated product moments. Think of it as your product's accent, subtle but memorable.
 
 **Why it works:** Users form emotional attachments to distinctive patterns. Done right, a small quirk becomes a signature, increasing brand recall, delight, and perceived polish without harming clarity.
 
@@ -537,7 +537,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** tie the quirk to your product's brand, tone, or core philosophy · use it in moments that recur, so it becomes a familiar, ownable pattern or visual · keep it light, intuitive, and non-blocking.
 
-**Don't:** force a quirk into high-stakes, high-friction UX (checkout, account recovery) · prioritise novelty over clarity — delight shouldn't require learning · break platform conventions without strong justification.
+**Don't:** force a quirk into high-stakes, high-friction UX (checkout, account recovery) · prioritise novelty over clarity, delight shouldn't require learning · break platform conventions without strong justification.
 
 **Founder tip:** Your app's quirk is a signature. When users recognise it as yours, you've built something sticky. Own a small behaviour and you own a piece of the user's memory.
 
@@ -557,9 +557,9 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** blur, mask, or hide just enough to spark interest ("You have 3 new messages") · use emotionally charged copy to frame the mystery ("Someone liked your profile") · consider timed reveals or sneak previews to build tension.
 
-**Don't:** overuse it — curiosity only works if the reward feels meaningful · create artificial walls that frustrate instead of intrigue · leave users in limbo with no clear way to resolve the curiosity.
+**Don't:** overuse it, curiosity only works if the reward feels meaningful · create artificial walls that frustrate instead of intrigue · leave users in limbo with no clear way to resolve the curiosity.
 
-**Founder tip:** Use it to create pull, not frustration. The best reveals feel earned, not extracted. It's not about teasing for the sake of it — it's about designing suspense with a payoff.
+**Founder tip:** Use it to create pull, not frustration. The best reveals feel earned, not extracted. It's not about teasing for the sake of it, it's about designing suspense with a payoff.
 
 **Pairs with:** Intentional Friction · The Paywall · Variable Reward · Limited Offer · Success Moments
 
@@ -569,7 +569,7 @@ a tactic, a play used with its pairs is a strategy.
 ## Success Moments
 *Rewarding users immediately after completing a key action.*
 
-**What it is:** Short, uplifting moments triggered by meaningful actions — a completed task, milestone, or step — designed to pause the flow, acknowledge progress, and emotionally reward.
+**What it is:** Short, uplifting moments triggered by meaningful actions, a completed task, milestone, or step, designed to pause the flow, acknowledge progress, and emotionally reward.
 
 **Why it works:** Our brains crave feedback loops. A well-timed success moment delivers validation, breaks up heavy flows, and fuels motivation. Positive reinforcement builds habits.
 
@@ -577,9 +577,9 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** use celebratory micro-interactions, brand flourishes, or warm copy · acknowledge effort, not just outcome · keep the moment short but emotionally charged.
 
-**Don't:** overuse or fake it — only celebrate real progress · disrupt flow with long animations or loud effects · skip these moments in high-friction experiences.
+**Don't:** overuse or fake it, only celebrate real progress · disrupt flow with long animations or loud effects · skip these moments in high-friction experiences.
 
-**Founder tip:** Use success moments sparingly — they should feel earned, not expected. Success is momentum. Nail the timing, nail the feeling, and users will be receptive to what comes next.
+**Founder tip:** Use success moments sparingly, they should feel earned, not expected. Success is momentum. Nail the timing, nail the feeling, and users will be receptive to what comes next.
 
 **Pairs with:** Micro Interactions · Loading Feedback · Gamified Progress · Permission Serve · Referral · Shareability · Value Replay
 
@@ -591,13 +591,13 @@ a tactic, a play used with its pairs is a strategy.
 
 **What it is:** Home screen components that surface live, contextual, or socially meaningful content without needing to open the app.
 
-**Why it works:** Widgets collapse time-to-insight. They feel personal, timely, and emotionally relevant, making your app feel present and helpful — like an always-on personal companion.
+**Why it works:** Widgets collapse time-to-insight. They feel personal, timely, and emotionally relevant, making your app feel present and helpful, like an always-on personal companion.
 
 **Use when:** your product supports daily rhythms (habits, streaks, logs) · there's recurring live or time-sensitive value (rides, updates, markets) · passive visibility reinforces return (mood, hydration, step goals).
 
-**Do:** use glanceable, meaningful visuals — think single-glance utility · tie updates to user-specific metrics, reminders, or rituals · design for edge moments: boredom, waiting, checking the phone without purpose.
+**Do:** use glanceable, meaningful visuals, think single-glance utility · tie updates to user-specific metrics, reminders, or rituals · design for edge moments: boredom, waiting, checking the phone without purpose.
 
-**Don't:** overload the widget with dense data or marketing content · treat the widget as a bonus — it's an extension of your core product · use it for static marketing content; it will be removed and harm your brand.
+**Don't:** overload the widget with dense data or marketing content · treat the widget as a bonus, it's an extension of your core product · use it for static marketing content; it will be removed and harm your brand.
 
 **Founder tip:** Home screen = prime real estate. A strong widget is a re-engagement engine. When widgets show value at the right moment, they reduce app abandonment and increase surface area for return. Done right, they're a channel for trust, familiarity, and habit.
 
@@ -613,11 +613,11 @@ a tactic, a play used with its pairs is a strategy.
 
 **Why it works:** A well-timed paywall appears after users feel momentum, emotional investment, desire, or clear benefit. When you lead with aspiration and timing, conversion becomes a reward, not a ransom.
 
-**Use when:** after a user completes a valuable action or hits a feel-good milestone · once a streak, preview, or taste of premium unlocks desire · post-personalisation or setup — after investing effort, when commitment bias is high.
+**Use when:** after a user completes a valuable action or hits a feel-good milestone · once a streak, preview, or taste of premium unlocks desire · post-personalisation or setup, after investing effort, when commitment bias is high.
 
-**Do:** use reverse trials — grant access first, then pull it back with context · frame the upgrade as a logical next step that powers up the experience · explain benefits, not just features; lead with strong emotions and benefits.
+**Do:** use reverse trials, grant access first, then pull it back with context · frame the upgrade as a logical next step that powers up the experience · explain benefits, not just features; lead with strong emotions and benefits.
 
-**Don't:** show the paywall before any value is experienced · use guilt-driven language · offer too many choices — keep upgrade paths simple and decisive.
+**Don't:** show the paywall before any value is experienced · use guilt-driven language · offer too many choices, keep upgrade paths simple and decisive.
 
 **Founder tip:** Show users what they'll unlock, what they're about to lose, or what they've almost achieved. Desire builds when users feel progress, pride, and proximity to something just out of reach.
 
@@ -631,17 +631,17 @@ a tactic, a play used with its pairs is a strategy.
 
 **What it is:** The amount of time or invested effort it takes for a new user to experience the solution or benefit that triggered them to download your product.
 
-**Why it works:** Users don't sign up to wonder — they hire your app to complete a task. Achieving what they were promised is the only reason they will activate.
+**Why it works:** Users don't sign up to wonder, they hire your app to complete a task. Achieving what they were promised is the only reason they will activate.
 
 **Use when:** onboarding and activation · introducing users to a new feature · your product's "aha" moment lives deep in the flow.
 
-**Do:** nudge users to the core feature they must reach, and nothing else · strip distractions — only surface what's required to reach first value · use progressive disclosure to delay complexity until it's earned.
+**Do:** nudge users to the core feature they must reach, and nothing else · strip distractions, only surface what's required to reach first value · use progressive disclosure to delay complexity until it's earned.
 
 **Don't:** overwhelm users with feature sprawl or dashboard noise · rely on empty states without context, action, or promise · neglect the right amount of friction for orientation around the product.
 
-**Founder tip:** Build backwards from the "aha moment" — that's your product's promise. Ruthlessly optimise every touchpoint to deliver on it. Anything that delays or distracts from value is noise that moves users away from sticking.
+**Founder tip:** Build backwards from the "aha moment", that's your product's promise. Ruthlessly optimise every touchpoint to deliver on it. Anything that delays or distracts from value is noise that moves users away from sticking.
 
-**Benchmarks worth holding:** users should feel value **in under 3 minutes**. In the worst case a user gives you **30 seconds** — know exactly what they see, do, and feel in that window.
+**Benchmarks worth holding:** users should feel value **in under 3 minutes**. In the worst case a user gives you **30 seconds**, know exactly what they see, do, and feel in that window.
 
 **Pairs with:** Gamified Progress · Intentional Friction · Progressive Disclosure · Empty States · Setup Defaults · Commitment · Discovery
 
@@ -679,7 +679,7 @@ a tactic, a play used with its pairs is a strategy.
 
 **Do:** make the randomness feel rewarding, not arbitrary · use it in flows where outcomes aren't mission-critical · highlight differences visually (badges, colours, rare finds, rotating tips).
 
-**Don't:** add randomness where users expect control or reliability · hide important functionality behind randomness · create loops that feel addictive without purpose — this breaks trust.
+**Don't:** add randomness where users expect control or reliability · hide important functionality behind randomness · create loops that feel addictive without purpose, this breaks trust.
 
 **Founder tip:** Variable reward is behavioural UX. But value must always win over chance. A tiny twist can make users lean in. Keep the core familiar, let the surprise live in the edges.
 
