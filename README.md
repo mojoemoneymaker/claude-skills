@@ -20,6 +20,7 @@ two copies ever disagree, the repo wins and the Dropbox copy gets re-mirrored.
 | `belief-patterns` | The persuasion structure library: reframe, two sales, question control, bridge questions, tie-downs, attention generators, through line, story arc. Distilled from Eli Wilde and Joe's own notes with verbatim examples and adoption status. Runs first on anything meant to change a mind, written or spoken. Also holds the source ingest procedure. | Dropbox canonical, then `~/.claude/skills/` by junction |
 | `spoken-script` | The spoken-word layer: how a line sounds when Joe says it. Read-aloud pass, vocal modes, rhythm, MC craft, the checker. Runs last on anything read aloud. | Dropbox canonical, then `~/.claude/skills/` by junction |
 | `wdjm-script-writer` | Joe's belief-shifting Reels writer, adopted from claude.ai on 2026-09-03 and wired to `belief-patterns` and `spoken-script`. The claude.ai synced copy is replaced by uploading the packaged `.skill` from here. | claude.ai synced skill (upload), and Dropbox canonical if Joe wants it junctioned |
+| `impeccable` | Vendored copy of pbakaus/impeccable 4.3.1, the frontend design and UX skill (shape, audit, polish, harden, live browser iteration). Not edited here: upstream is the source of truth, this repo is the git home so any project can copy it into `.claude/skills/`. | Copied per project into `<repo>/.claude/skills/impeccable/`; currently in djmojoe-site, next in the DJ Prep Pool app |
 
 ## Conventions
 

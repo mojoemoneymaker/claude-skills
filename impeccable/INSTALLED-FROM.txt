@@ -1,0 +1,6 @@
+Vendored from https://github.com/pbakaus/impeccable (plugin/skills/impeccable), version 4.3.1.
+First installed into djmojoe-site/.claude/skills on 2026-09-09 at Joe's request. Added to this
+repo on 2026-09-26 as the git home so every project can copy it in. Upstream is the source of
+truth: re-copy from upstream to update, do not edit here. Per project use: copy this folder to
+<repo>/.claude/skills/impeccable/. The launcher in scripts/ downloads a self contained binary on
+first run, so it needs outbound network the first time it is used in a fresh container.
