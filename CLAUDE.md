@@ -24,3 +24,9 @@ state stays in this repo's own files and in git, never in Mem0.
 - **Builder and operator.** Claude Code builds and opens pull requests. Grok Bot
   operates and fires Claude Code routines. Neither merges, publishes or pushes
   live without Joe's word.
+
+## Brand card: claude-skills (2026-10-01)
+
+- **What:** Not a brand. The git home for Joe's reusable Claude skills (belief-patterns, spoken-script, wdjm-script-writer). The one sync rule is in README.md: this repo wins, Dropbox is the mirror.
+- **Mem0 drawer:** None. Skills are shared capability, never a bot with its own memory.
+- **Operator:** None. Operators read skills from the brand repos that install them.
