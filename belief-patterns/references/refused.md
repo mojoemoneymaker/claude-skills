@@ -34,3 +34,26 @@ the no-fake-scarcity rule, or rule 9 on planting doubt). The sources record wher
   answer".** Pressure and verdicts. Source: EW-drills-yt (24:06, 32:14, 21:57, 29:48).
 - **Eli's own credentials and prices.** "Nine figures", "100 million", course pricing. His
   facts, never in Joe's mouth. Source: EW-drills-yt.
+- **Undercutting the previous speaker to take the sale.** The Oslo story: "old versus new",
+  "he didn't tell you everything", "that's just a piece of a bigger whole, and I put that piece
+  in my pocket". Joe never sells against another DJ by name or by frame. Source: EW-frames-yt
+  (02:24 to 06:47, 31:09).
+- **The competitor binary in a pre-frame.** "They don't know it, or they know it but don't want
+  you to know it": calling competitors dumb or unethical. Source: EW-frames-yt (16:26).
+- **Gaslighting as a drill, and assigning blame to a person as a lever.** "I gaslit her"; "who
+  taught you to think that way... now they have to defend the fact that they can't". Rule 9.
+  The single sincere "how do you know?" is kept for the mentorship room. Source: EW-frames-yt
+  (19:18, 20:00).
+- **Compliance as the goal of rapport.** "Making them feel safe, meaning making them compliant";
+  the physical, verbal, mental compliance ladder. Source: EW-frames-yt (09:25, 1:13:18).
+- **Aligned adversary, us versus them.** "What makes tribes bond even more? Having an aligned
+  enemy"; "script readers give the entire industry a bad name"; "the other douchebags who just
+  talk". The me / we / you movement is kept; "they" as an enemy is not. Source: EW-frames-yt
+  (58:06, 1:14:35, 1:09:57).
+- **Expanding to the ridiculous said to a buyer; forced yeses from the stage; webinars as
+  indoctrination; the Hitler line.** Source: EW-frames-yt (31:44, 23:59, 35:45, 13:12, 43:40).
+- **"Millions or tens of millions of dollars if you don't master this."** A promised number.
+  FTC. Source: EW-frames-yt (1:09:24).
+
+Full ledger with quotes on the Library row:
+https://app.notion.com/p/3d22e7ac085c8143ac75f07f8d795c1e

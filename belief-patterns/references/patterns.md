@@ -27,6 +27,11 @@ Sources in this file:
 - **EW-drills-yt**: Eli Wilde's speaker drills session on YouTube (`dDCdGJ_TIZ0`), ingested
   2026-09-03 from the transcript Joe shared. The only source here with verbatim Eli Wilde
   quotes; timestamps refer to that video. Full record in `sources/eli-wilde-speaker-drills-2025.md`.
+- **EW-frames-yt**: Eli Wilde's linguistic frames session at a Chase Hughes event on YouTube
+  (`CHFcyWPjvnM`), ingested 2026-09-04 from the transcript Joe shared. Verbatim, timestamped.
+  First source filed in the Notion 📖 Learning Library instead of the Knowledge Base; each
+  pattern below names its Library row. Full record in
+  `sources/eli-wilde-linguistic-frames-2025.md`.
 
 ---
 
@@ -56,6 +61,25 @@ reels and talk openers. The `wdjm-script-writer` hook bank already carries Joe's
 patterns; this lesson explains why they work, it does not replace them. Status: adopted.
 Source: EW-notes-2024-10-04 (patterns: recognition, utilization, creation). KB: Principle:
 Attention is pattern work.
+
+**The pre-frame is second only to connection.** Everything the listener meets before the
+conversation is the pre-frame: the reel, the page, the welcome email, the first reply. "Outside
+of the connection that you have with your audience, the second most important thing is the
+pre-frame." (12:32) A listener who arrives framed is not cold: "they come to you on a call in a
+different mindset as if they were cold." (13:12) Why: the belief a piece installs is carried
+into the next conversation. Scopes: marketing, consults, teaching, the free community as the
+pre-frame for an Accelerator call. Status: adopted; Eli's word "indoctrinate" (13:12) is not
+Joe's word. Source: EW-frames-yt (Eli quoting Tony Robbins). Library: Principle: The pre-frame
+is second only to connection.
+
+**Perception of value: shape the lens before you show the thing.** "How do we preframe the lens
+through which they see your thing?" (14:59) Before a teaching point: say what it cost you to
+learn (true and specific), why it matters to them, then give it plainly; "I'm going to share"
+over "I'm going to teach." Why: the value of a lesson is set by the framing that precedes it.
+Scopes: talks, reels, course modules. Status: adapted, four of the six moves in the source;
+the competitor binary ("they don't know it, or they know it but don't want you to know it",
+16:26) and any cost figure that is not in the verified fact registry are refused. Source:
+EW-frames-yt. Library: Framework: Perception of value (POV).
 
 **Question control: interrogate your own content.** Make a statement, then immediately ask
 yourself the question a listener would ask about it, then answer it. The answer is the next
@@ -117,6 +141,23 @@ with and refused to tolerate are the only things they carry authority on. Why: t
 grants authority to overcoming, not to knowing. Scopes: talks, teaching, reels built on Joe's
 own arc. Status: adopted. Source: TW morning session, EW-notes-2024-10-04. KB: Principle:
 Authority comes from what you would not tolerate.
+
+**The best interest frame: ask permission to push, early.** "Is it okay with you if I speak from
+my heart? If I say some things to you that might make you feel uncomfortable so that you can
+walk out of here a stronger person for yourself and your family. Is that okay with you?"
+(1:00:58) The image: the small pink weights in the corner or the big ugly ones. Why: permission
+given early makes the hard ask at the end the obvious next step instead of an ambush, and a
+real "no" changes the session. Scopes: mentorship calls, workshops, talks, onboarding.
+Status: adopted; Eli's astronaut story stays his, Joe uses his own. Source: EW-frames-yt.
+Library: Script/Language: Best interest frame.
+
+**The intent frame: name a fair intent behind hostile behaviour.** "I'm sure your intention
+isn't to make me feel bad, is it?" (24:17) "It sounds like your intention is to kind of protect
+yourself." (24:44) Why: relabelling the intent gives the other person a way back without
+losing face. Scopes: hostile comments, a combative DJ in the room, planner and vendor
+exchanges. Status: adapted; the relabel is kept, the verdict that follows it in the source ("I
+can't imagine that's the life you want") is dropped. Source: EW-frames-yt. Library:
+Script/Language: Intent frame.
 
 **Describe their problem better than they can.** If the speaker names the listener's situation
 more precisely than the listener could, the listener assumes the speaker has the solution.
@@ -192,14 +233,51 @@ is never a dead moment for them or their guests. After the reframe, ask: "Can yo
 is different from what you've seen before?" Why: the reframe replaces the old image with a new
 one and the question makes the listener confirm it in their own words. Scopes: all. Status:
 adopted for the mechanism; the template is a shape to write from, never a line to paste
-(see SKILL.md anti-patterns). Source: EW-notes-2024-10-04, NLP-3.0-cards (card 10, 87, 88).
-KB: Framework: The reframe.
+(see SKILL.md anti-patterns). The redefine form in the frames session: "It's not this, it's
+that. And here's what that means" (24:54), and its symptom-versus-cause cousin, "is that an
+issue or is that the symptom of a deeper issue?" (25:14), both restricted to the mentorship
+room because said to a couple they plant a deficiency. Source: EW-notes-2024-10-04,
+NLP-3.0-cards (card 10, 87, 88), EW-frames-yt. KB: Framework: The reframe. Library:
+Framework: Redefine and symptom versus cause.
 
 **Link every feature to what it means for them.** Linking phrases: "so that", "in order to",
 "which allows you to", "which means", "and what that means for you is". Why: the listener does
 not want the thing, they want what the thing does for them, and a spoken sentence without the
-link leaves them to do the work. Scopes: all, and sales talk tracks especially. Status:
-adopted. Source: EW-notes-2024-10-05. KB: Script/Language: Linking phrases.
+link leaves them to do the work. The chain ends at something the listener said they want, never
+an invented benefit, and it runs in both directions: "so that you can spend more time with your
+family" and "so that you no longer have that crippling anxiety" (1:06:13). Drop the "and that
+is what you want, isn't it?" tie-down when it is a lock rather than a check. Scopes: all, and
+sales talk tracks especially. Status: adopted. Source: EW-notes-2024-10-05, EW-frames-yt.
+KB: Script/Language: Linking phrases. Library: Script/Language: Linking phrases.
+
+**Counter-example: ask for the time they did the opposite.** "Have you ever been in a position
+where you didn't have money, but you still found a way?" (17:51) Why: a reference the listener
+supplies is theirs; nothing is planted. Scopes: mentorship room, reels as a reflective
+question, self. Status: adopted. Source: EW-frames-yt. Library: Script/Language:
+Counter-example.
+
+**Disassociation: the Santa Claus reframe.** A belief everyone once held and dropped, then the
+question about today's beliefs: "we realize that was just a childish way of thinking. I wonder
+what beliefs 10 years from now you'll look back on today and realize they were just as silly."
+(33:30) Why: the listener separates from the belief before it is challenged. Scopes: reels and
+teaching on old DJ beliefs. Status: adopted. Source: EW-frames-yt. Library: Framework:
+Disassociation, the Santa Claus reframe.
+
+**"That's actually a good thing": give the feeling its meaning before it arrives.** "There might
+be a time where you feel a little bit overwhelmed ... That's actually a good thing" (37:23);
+"I'm a bit nervous. Well, that's actually a good thing. If you weren't nervous, that would show
+us that it didn't matter to you." (38:47) Why: a feeling that already has a meaning does not
+become the reason to quit. Scopes: onboarding, mentorship, self. Status: adopted, only where
+the positive meaning is true. Source: EW-frames-yt. Library: Script/Language: "That's actually
+a good thing".
+
+**Nominalization: it's the pattern, not you.** "You have certain patterns around money. So,
+it's not you ... I want to help you break them if you'll let me. Because this isn't anything I
+can do to you. I can just show you the door." (22:35) Why: moving the problem off the person
+and onto a pattern lets them look at it without defending themselves. Scopes: mentorship,
+content. Status: adopted, with "if you'll let me" meant sincerely; the superior-then-inferior
+posture game in the source is dropped. Source: EW-frames-yt. Library: Script/Language:
+Nominalization.
 
 **Three layers of pain, or surface, source, self.** Surface ("I want a fun reception"),
 action ("so my guests dance all night"), transformational ("because it's the one night my whole
@@ -210,7 +288,8 @@ Speak to the deepest layer the listener has shown you, never a layer they have n
 belief that moves someone lives at the third layer. Scopes: sales calls (ask down through the
 layers with "what would that mean to you?"), reels and talks (write to the layer). Status:
 adapted; the sources use it to extract pain, this skill uses it to aim the message and to
-understand. Source: NLP-3.0-cards (card 52), EW-drills-yt. KB: Framework: Three layers of pain.
+understand. Source: NLP-3.0-cards (card 52), EW-drills-yt, EW-frames-yt ("surface source self",
+24:54). KB: Framework: Three layers of pain.
 
 **Two sales, and the process comes before the product.** "There's two sales the audience needs
 to be sold on." (04:13) "They need to believe the approach, vehicle, process to achieve."
@@ -353,6 +432,24 @@ important the outcome is, then talk about what makes it a yes. Why: a number the
 out loud is a commitment they made to themselves. Scopes: sales calls, workshops. Status:
 adapted; used to understand the couple's priorities, never to corner them. Source:
 EW-notes-2024-10-04, NLP-3.0-cards (card 152). KB: Tactic: Criteria questions.
+
+**Uncertainty objections versus real objections.** A money objection is often an uncertainty
+objection wearing money's clothes: "it might not be a money objection. It might be an
+uncertainty-based objection." (50:17) Before handling anything, check the process: "how do you
+feel about the process? ... based on their response I know they're not sold on the process. So,
+no objection handling is going to work." (53:12) Why: if the listener is not sold on the
+experience, no payment plan or discount helps, and the work is back in the vision, not the
+price. Scopes: consults with couples, mentorship, teaching. Status: adopted; "am I hearing you
+correctly" is a check, not a lock, and a smoke-screen objection can still be a real no.
+Source: EW-frames-yt. Library: Framework: Uncertainty objections versus real objections.
+
+**Hierarchy of criteria (restricted).** "I can appreciate XYZ, but isn't it more important?"
+(29:31) Honest only when the higher criterion is one the listener already named earlier and
+"no" is a real available answer. Why: it puts two things the listener values side by side and
+lets them choose. Scopes: mentorship; consults only with a criterion the couple stated.
+Status: adapted and restricted; the tail in the source ("then they got to defend the belief I
+wanted them to have", 30:06) is identity pressure and is refused. Source: EW-frames-yt.
+Library: Script/Language: Hierarchy of criteria.
 
 **"You already have the perfect strategy for staying where you are."** The notes record this
 line: "You already have the perfect strategy, if you want to stay exactly where you are. But
