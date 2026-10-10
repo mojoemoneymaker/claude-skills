@@ -27,6 +27,8 @@ two copies ever disagree, the repo wins and the Dropbox copy gets re-mirrored.
 | `playbook-plan` | Playbook plan mode: turns a product goal or a stuck metric (activation, D7 retention, trial conversion) into a ranked play stack with a measurement plan and a deliberately-not-doing list. Same source and adoption date as above. | Same as `playbook-build` |
 | `playbook-review` | Playbook review mode: audits an existing flow, screen, spec or copy against the ten non-negotiables and returns a Before / After / Why table plus a Block or Ship verdict. Same source and adoption date as above. | Same as `playbook-build` |
 | `impeccable` | Vendored copy of pbakaus/impeccable 4.3.1, the frontend design and UX skill (shape, audit, polish, harden, live browser iteration). Not edited here: upstream is the source of truth, this repo is the git home so any project can copy it into `.claude/skills/`. | Copied per project into `<repo>/.claude/skills/impeccable/`; currently in djmojoe-site, next in the DJ Prep Pool app |
+| `spoken-script` | The spoken-word layer: writes and polishes anything Joe says out loud, using the lessons ingested from Eli Wilde and Joe's own craft. Runs last, on top of whichever content skill owns the format. | Dropbox canonical, then `~/.claude/skills/` by junction |
+| `archify` | Third-party, vendored. Turns a system description or a repository into a validated, interactive architecture, workflow, sequence, data-flow, or lifecycle diagram as standalone HTML. Node 18+ required, no `npm install`. | Dropbox canonical, then `~/.claude/skills/` by junction |
 
 The Learning OS itself (rules, entry template, the two databases) lives on the Notion page
 🎓 Learning OS (`3d12e7ac-085c-81bd-9f6d-ce51e58e6e8e`). Raw transcripts live in Dropbox
@@ -40,3 +42,21 @@ The Learning OS itself (rules, entry template, the two databases) lives on the N
   model copies the punctuation it reads. Commas, colons, full stops.
 - Rules live in one home. A skill points at `joe-copy-standards` and the project copy law,
   it never restates them.
+
+## Third-party skills
+
+`archify` is vendored from https://github.com/tt-a1i/archify, upstream commit `06dd052`
+(v2.17.0-dev.1), staged with upstream's own `scripts/stage-clean-skill.mjs`. The result is
+byte-identical to the `archify.zip` upstream publishes, minus tests, lockfile, and dev
+dependencies. Do not hand-edit anything under `archify/`. To refresh, clone upstream, run the
+staging script into a scratch folder, and replace the whole `archify/` folder.
+
+Two exemptions and one warning:
+
+- The no-dash rule does not apply inside `archify/`. It is upstream text, and editing it would
+  break the byte-match that makes refreshes safe. The skill produces diagrams, not copy.
+- The skill-creator anatomy rule does not apply either. Upstream ships `bin/`, `renderers/`,
+  `schemas/`, `examples/`, and `delta/` alongside the usual folders.
+- After the first diagram, the skill runs `scripts/check-update.mjs`, which does one GET to
+  `tt-a1i.github.io` roughly every 72 hours to see if a newer version exists. It never
+  downloads or installs anything. Set `ARCHIFY_UPDATE_CHECK_DISABLED=1` to turn it off.
