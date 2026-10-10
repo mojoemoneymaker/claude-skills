@@ -10,11 +10,17 @@ works, decisions, lessons, and pointers to where exact state lives. Project
 state stays in this repo's own files and in git, never in Mem0.
 
 - **At session start**, search Mem0 under `joe` for "latest session wrap up",
-  "how Joe uses Mem0" and "wrap up", and follow what they say. Every Mem0 write
+  "how Joe uses Mem0", "how Joe wants problems handled" and "wrap up", and
+  follow what they say. Every Mem0 write
   from Claude Code must pass `user_id: joe` explicitly: the connector's own
   default is a different scope and Grok Bot will not see it. On a laptop or any
   other persistent clone, run `git pull --ff-only` before anything else; a
   cloud session clones fresh and needs no pull.
+- **When blocked**, inventory the tools connected to the session (connectors,
+  skills, CLIs, network secrets) and search Mem0 for how it was solved before,
+  and only then answer. Never a bare no: name the blocker, give two or three
+  workable paths with their tradeoffs, recommend one, and let Joe approve.
+  Record the solved path in Mem0. (Set 2026-10-10.)
 - **"Wrap up"** means: update this repo's dated status notes (STATE.md if it
   exists, otherwise this file) with what was done, what is unverified and the
   next task; commit and push explicit paths, never `git add -A`; write one Mem0

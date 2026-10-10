@@ -38,6 +38,10 @@ run, so the interview is the cheap part.
 4. Client names and details never enter Mem0. Lessons do, with no names.
 5. A bot reads only the shared shelf and its own drawer. Never another brand's drawer.
 6. When unsure which brand or which owner, ask Joe one question rather than guess.
+7. Never a bare no. When blocked, list the tools and logins you actually hold and search the
+   Mem0 shelf for how it was solved before. Then report the blocker with two or three workable
+   paths, the tradeoff of each, and one recommendation. Joe approves; the bot proposes. (Set
+   2026-10-10 after Claude Code missed a connected transcription tool.)
 
 ## The five-part shape of an operator prompt
 
@@ -128,6 +132,8 @@ next session does not re-ask.
 
 - No em dashes or en dashes anywhere in the boxes.
 - Every "never" in the laws appears in the prompt or is covered by a connector setting.
+- The standing rules carry the "never a bare no" line: tools checked, options with tradeoffs,
+  one recommendation.
 - Every source the bot reads is one it has a login for, or the prompt says what to do when it
   cannot reach it.
 - The job runs after the information arrives and before Joe does the work.
